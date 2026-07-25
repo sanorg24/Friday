@@ -1,25 +1,25 @@
-# --- Claude API (the agent's "brain") ---
-# Get this from console.anthropic.com -> API Keys
+// --- Claude API (the agent's "brain") ---
+// Get this from console.anthropic.com -> API Keys
 ANTHROPIC_API_KEY=
 
-# --- Twilio (texting) ---
-# Get these from console.twilio.com after creating a free trial account
+// --- Twilio (texting) ---
+// Get these from console.twilio.com after creating a free trial account
 TWILIO_ACCOUNT_SID=
 TWILIO_AUTH_TOKEN=
 TWILIO_PHONE_NUMBER=      # the Twilio number you're assigned, e.g. +15551234567
 OWNER_PHONE_NUMBER=       # YOUR real phone number, e.g. +14075551234
 
-# --- Budget guardrails ---
+// --- Budget guardrails ---
 TOTAL_BUDGET_USD=100
-# Agent will NEVER mark a spend as approved without a YES reply to a text.
-# It also refuses to recommend any single spend above this without extra confirmation.
+// Agent will NEVER mark a spend as approved without a YES reply to a text.
+// It also refuses to recommend any single spend above this without extra confirmation.
 MAX_SINGLE_SPEND_USD=25
 
-# --- Schedule ---
-# How often the agent runs its decision loop, in cron syntax. Default: every 4 hours.
+// --- Schedule ---
+// How often the agent runs its decision loop, in cron syntax. Default: every 4 hours.
 RUN_SCHEDULE_CRON=0 */4 * * *
 
-# --- Optional: virtual card for auto-pay on approved recurring spend (leave blank to disable) ---
+// --- Optional: virtual card for auto-pay on approved recurring spend (leave blank to disable) ---
 PRIVACY_API_KEY=
 
 require("dotenv").config();
@@ -143,13 +143,13 @@ app.listen(PORT, () => {
   }
 }
 
-# Your AI Business Agent — Setup Guide
+// Your AI Business Agent — Setup Guide
 
 This agent runs on its own, decides what to do next every 4 hours, does research/writing
 automatically, and **texts you** when it wants to spend money or publish something. You reply
 YES or NO. Nothing gets spent or published without your reply.
 
-## What you need to sign up for (all outside of Claude)
+// What you need to sign up for (all outside of Claude)
 
 1. **Anthropic API key** — console.anthropic.com → API Keys → Create Key.
    This is billed separately from your Claude.ai subscription, pay-as-you-go, likely a few
@@ -160,19 +160,19 @@ YES or NO. Nothing gets spent or published without your reply.
    dollars a month covers this project easily.
 4. A GitHub account, to hold the code so Railway can deploy it (github.com, free).
 
-## Step 1 — Get the code onto GitHub
+// Step 1 — Get the code onto GitHub
 
 1. Create a new repository on GitHub, e.g. `ai-business-agent`.
 2. Upload everything in this project folder to that repo (drag-and-drop on github.com works,
    or `git push` if you're comfortable with git).
 
-## Step 2 — Set up Twilio
+// Step 2 — Set up Twilio
 
 1. In the Twilio console, buy/claim your free trial phone number.
 2. Note down: Account SID, Auth Token, and your new Twilio phone number.
 3. Verify your **own** phone number in Twilio (required on trial accounts before it can text you).
 
-## Step 3 — Deploy to Railway
+// Step 3 — Deploy to Railway
 
 1. New Project → Deploy from GitHub repo → select `ai-business-agent`.
 2. Railway will detect `package.json` and run `npm install` + `npm start` automatically.
@@ -183,7 +183,7 @@ YES or NO. Nothing gets spent or published without your reply.
    - `RUN_SCHEDULE_CRON=0 */4 * * *`
 4. Once deployed, Railway gives you a public URL like `https://ai-business-agent-production.up.railway.app`.
 
-## Step 4 — Connect Twilio to your deployed app
+// Step 4 — Connect Twilio to your deployed app
 
 1. In Twilio console → your phone number's settings → "A Message Comes In".
 2. Set the webhook to: `https://<your-railway-url>/sms-webhook` (method: HTTP POST).
@@ -191,7 +191,7 @@ YES or NO. Nothing gets spent or published without your reply.
 
 Now when the agent texts you and you reply YES/NO, Twilio forwards your reply to the app.
 
-## Step 5 — Sanity check
+// Step 5 — Sanity check
 
 Visit `https://<your-railway-url>/` in a browser — you should see a JSON status page showing
 budget remaining and history length. That confirms it's alive.
@@ -200,7 +200,7 @@ The agent will run its first decision cycle at the next scheduled time (every 4 
 default — edit `RUN_SCHEDULE_CRON` if you want it sooner, e.g. `*/30 * * * *` for every 30 min
 while you're testing).
 
-## How approvals work
+// How approvals work
 
 - Agent decides on a research/writing task → does it automatically, no text.
 - Agent decides it needs to spend money or publish something public → texts you with a clear
@@ -210,14 +210,14 @@ while you're testing).
   isn't currently wired to auto-pay anything — see "Optional: auto-pay" below.
 - You reply NO → it moves on and proposes something else next cycle.
 
-## Optional: auto-pay for recurring costs (off by default)
+// Optional: auto-pay for recurring costs (off by default)
 
 For things like a recurring subscription where a real payment API exists (e.g. a spend-capped
 virtual card from privacy.com), you can extend `lib/sms.js`'s approval handler to trigger an
 actual charge after a YES. I left this out by default — start manual, turn it on once you trust
 the agent's judgement.
 
-## Costs to expect against your $100
+// Costs to expect against your $100
 
 - Railway hosting: ~$5/mo
 - Twilio: ~$1-2/mo + a fraction of a cent per text
