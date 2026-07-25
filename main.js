@@ -2,13 +2,6 @@
 // Get this from console.anthropic.com -> API Keys
 ANTHROPIC_API_KEY=
 
-// --- Twilio (texting) ---
-// Get these from console.twilio.com after creating a free trial account
-TWILIO_ACCOUNT_SID=
-TWILIO_AUTH_TOKEN=
-TWILIO_PHONE_NUMBER=      # the Twilio number you're assigned, e.g. +15551234567
-OWNER_PHONE_NUMBER=       # YOUR real phone number, e.g. +14075551234
-
 // --- Budget guardrails ---
 TOTAL_BUDGET_USD=100
 // Agent will NEVER mark a spend as approved without a YES reply to a text.
