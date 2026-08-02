@@ -1,0 +1,17 @@
+{
+  "name": "friday-agent",
+  "version": "1.0.0",
+  "description": "Friday - autonomous AI business agent (ARCHITECT persona)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "@octokit/rest": "^20.1.1",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.14"
+  }
+}
