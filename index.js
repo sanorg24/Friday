@@ -2,7 +2,7 @@ require('dotenv').config();
 const cron = require('node-cron');
 const { runCouncilCycle } = require('./lib/claude');
 const { writeFile, fetchFile } = require('./lib/github');
-const { sendApprovalEmail } = require('./lib/email');
+const { sendMessage } = require('./lib/telegram');
 
 async function runCycle() {
   console.log(`[${new Date().toISOString()}] Starting cycle...`);
@@ -19,10 +19,9 @@ async function runCycle() {
     console.log(`[${new Date().toISOString()}] Cycle complete. Confidence: ${result.confidence}`);
 
     if (result.requires_owner_approval) {
-      const subject = `Friday needs your approval: ${result.next_action.slice(0, 60)}`;
-      const body = `RECOMMENDATION:\n${result.recommendation}\n\nREASONING:\n${result.reasoning}\n\nNEXT ACTION:\n${result.next_action}\n\nCONFIDENCE: ${result.confidence}\n\n---\nReply to this email to send Friday your decision.`;
-      await sendApprovalEmail({ subject, body });
-      console.log(`[${new Date().toISOString()}] Approval email sent to owner.`);
+      const message = `🤖 Friday needs your approval\n\nRECOMMENDATION:\n${result.recommendation}\n\nREASONING:\n${result.reasoning}\n\nNEXT ACTION:\n${result.next_action}\n\nCONFIDENCE: ${result.confidence}`;
+      await sendMessage(message);
+      console.log(`[${new Date().toISOString()}] Telegram message sent to owner.`);
     } else {
       console.log(`[${new Date().toISOString()}] No owner approval needed this cycle: ${result.next_action}`);
     }
