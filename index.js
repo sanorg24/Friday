@@ -1,7 +1,7 @@
 require('dotenv').config();
 const cron = require('node-cron');
 const { runCouncilCycle } = require('./lib/claude');
-const { writeFile, fetchFile } = require('./lib/github');
+const { writeFile, fetchFile, appendToLog } = require('./lib/github');
 const { sendMessage } = require('./lib/telegram');
 
 async function runCycle() {
@@ -9,12 +9,22 @@ async function runCycle() {
 
   try {
     const previousPlan = await fetchFile('business_plan.md');
-    const result = await runCouncilCycle(previousPlan);
+    const memoryLog = await fetchFile('memory.md');
+    // Keep only the most recent ~8000 characters of memory in the prompt so
+    // token usage/cost doesn't grow forever - the full history still lives
+    // in memory.md on GitHub even if older entries get trimmed from context.
+    const recentMemory = memoryLog ? memoryLog.slice(-8000) : null;
+
+    const result = await runCouncilCycle(previousPlan, recentMemory);
 
     // Always write the plan and ideas files, even if no owner approval is
     // needed yet - this is the "memory" of what's been decided so far.
     await writeFile('business_plan.md', result.business_plan_md, 'ARCHITECT cycle update');
     await writeFile('ideas.md', result.ideas_md, 'ARCHITECT cycle update');
+
+    if (result.memory_entry) {
+      await appendToLog('memory.md', result.memory_entry);
+    }
 
     console.log(`[${new Date().toISOString()}] Cycle complete. Confidence: ${result.confidence}`);
 
