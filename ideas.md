@@ -1,272 +1,152 @@
-# ARCHITECT - Business Ideas Log
+# ARCHITECT - Business Ideas
 
-## CURRENT STATUS: DECISION POINT
-**Cycle 3** - Execution bottleneck identified on primary idea. Owner must decide: commit to service business or pivot to passive model.
+## CURRENT ACTIVE IDEA
 
----
+### Passive Business Model - PENDING SELECTION
 
-## PRIMARY IDEA (ON HOLD - Execution Issues)
+**Status:** Owner must choose from 3 options  
+**Budget Required:** $50-70 depending on option  
+**Confidence:** HIGH (all three options proven, match owner capacity)  
 
-### AI-Powered Etsy Listing Optimization Service
-**Status:** Validation phase not started (Day 1 tasks not executed)  
-**Selected:** Cycle 1  
-**Last Updated:** Cycle 3  
-
-**The Concept:**
-Offer AI-powered product description writing and SEO optimization services to small Etsy sellers. Three tiers ($15/$25/$50) covering 5-20 listings with 24-72 hour delivery. Target sellers struggling with product visibility and SEO.
-
-**Why It Was Chosen:**
-- Fast validation timeline (7-14 days)
-- 95%+ margins (AI + human review model)
-- Large accessible market (7M+ Etsy sellers, concentrated in online communities)
-- Clear automation roadmap
-- Fits $100 budget
-- Service beats product at micro-budget (no inventory risk)
-
-**Why It's Stalling:**
-- Requires consistent daily engagement (research, customer service, delivery)
-- Owner has not executed Day 1 validation tasks (join communities, document pain points)
-- Service business demands reliability - if owner can't do 1hr research/day, they can't deliver customer orders on deadline
-- Reveals potential mismatch between business model and owner's actual available time/work style
-
-**Current Blocker:**
-Owner execution, not plan quality. Zero-cost validation research requiring 60 min/day has not started after 2-3 days.
-
-**Validation Plan (Incomplete):**
-- Days 1-2: Join r/EtsySellers + 3 Facebook groups, search for organic problem mentions
-- Days 3-4: Document findings, interview 5-10 sellers
-- Day 5: GO/NO-GO decision based on 10+ validation signals
-- **Status:** Day 1 not completed
-
-**Council Confidence:** MEDIUM → LOW (plan is sound, but execution failure is critical negative signal)
+See business_plan.md v2.0 for full details on:
+- Option 1: Niche Affiliate SEO Site
+- Option 2: Etsy Digital Products Store  
+- Option 3: Automated Faceless YouTube Channel
 
 ---
 
-## RUNNER-UP IDEAS (from Cycle 1)
+## ARCHIVED IDEAS
 
-### 2. Print-on-Demand Etsy Store
-**Why Considered:** Passive income after initial design work, scalable, low startup cost
+### 1. AI-Powered Etsy Listing Optimization Service ❌ REJECTED
 
-**Why Not Chosen:**
-- Longer validation timeline (30-60 days to see if designs sell)
-- Saturated market, needs standout designs
-- Success depends on design skills (owner untested)
-- Marketing spend required to get initial traction
+**Original Concept:** Offer Etsy sellers AI-enhanced product description optimization for $15-50 per package.
 
-**Could Revisit If:** Owner has design skills or willing to hire designer; prefers passive business over service business
+**Why Rejected:** Requires daily engagement for validation research, customer acquisition, service delivery, and customer support. Owner demonstrated inability to execute even Day 1 zero-cost validation tasks over 4+ cycles (5+ days), indicating fundamental mismatch between service business requirements and owner's actual available time/work style. Service businesses need consistent daily availability; owner has bursty weekend availability.
 
----
-
-### 3. Niche Affiliate SEO Site
-**Why Considered:** Passive income, no customer service, can be built in bursts, valuable SEO learning
-
-**Why Not Chosen:**
-- 60-90 day timeline to first dollar (too slow for validation)
-- Requires consistent content creation (20-30 articles)
-- SEO is increasingly competitive
-- Revenue uncertain at micro-budget
-
-**Could Revisit If:** Owner prefers passive business and is willing to accept slower revenue timeline; has writing skills or can use AI content effectively
-
-**Strengths vs. Etsy Service:**
-+ Can be built in concentrated bursts (weekend writing sessions)
-+ Runs passively once content is published
-+ No daily customer interaction required
-+ Scales without owner time (traffic growth is algorithmic)
-
-**Weaknesses vs. Etsy Service:**
-- Much longer to first dollar (60-90 days vs. 7-14 days)
-- Revenue less predictable
-- Requires SEO knowledge and patience
+**Lessons Learned:**  
+- Business model must match owner's ACTUAL work capacity, not idealized assumptions  
+- Revealed behavior (inability to start) predicts inability to sustain  
+- At micro-budgets, owner execution capacity is THE limiting constraint  
+- Service businesses are wrong fit for owners with irregular availability  
 
 ---
 
-### 4. Micro-SaaS (Simple Automation Tool)
-**Why Considered:** High margins, recurring revenue potential, builds valuable tech skills
+## RUNNER-UP IDEAS FROM ORIGINAL EVALUATION
 
-**Why Not Chosen:**
-- Requires coding skills (owner ability unknown)
-- Higher technical complexity
-- Longer build time (14-30 days minimum)
-- User acquisition challenge at $0 marketing budget
+### 2. Print-on-Demand Niche Apparel
 
-**Could Revisit If:** Owner has coding skills; willing to build for 2-3 weeks before revenue; can identify specific automation pain point
+**Concept:** Use Printful/Printify + Etsy to sell custom-designed t-shirts/hoodies targeting specific hobbyist communities.
 
-**Strengths vs. Etsy Service:**
-+ Runs automatically once built
-+ Recurring revenue (monthly subscriptions)
-+ High perceived value
-+ Builds technical skills
-
-**Weaknesses vs. Etsy Service:**
-- Requires technical skills
-- Longer build time
-- User acquisition harder without ad budget
+**Pros:** Zero inventory risk, scalable, proven model, integrates with Etsy marketplace  
+**Cons:** Low margins (30-40%), high competition, requires ongoing design work, marketing costs eat into profit  
+**Why Not Selected Originally:** Lower margins and higher competition than service business  
+**Why Not Reconsidered Now:** Still requires ongoing design/marketing work; digital products (Option 2) are better passive alternative  
 
 ---
 
-### 5. Digital Templates/Printables on Etsy
-**Why Considered:** Create once, sell infinitely; fully passive after upload
+### 3. Micro-SaaS Tool for Specific Niche
 
-**Why Not Chosen:**
-- Very saturated market (millions of templates)
-- Requires design skills
-- Hard to stand out without ad spend
-- Etsy fees eat into margins (6.5% transaction + 3% payment processing + $0.20 listing)
+**Concept:** Build simple automation tool (browser extension, API wrapper, workflow automation) and charge $5-20/month subscription.
 
-**Could Revisit If:** Owner has design skills or can create unique template angle; prefers fully passive business
-
-**Strengths vs. Etsy Service:**
-+ Completely passive after creation
-+ No customer service (digital delivery)
-+ Can create in 1-2 focused sessions
-+ Scales infinitely without owner time
-
-**Weaknesses vs. Etsy Service:**
-- Extremely saturated market
-- Harder to differentiate
-- Slower initial traction
-- Requires design skills
+**Pros:** Recurring revenue, scalable, high margins once built, valuable technical skills  
+**Cons:** Requires coding ability, longer build time (2-4 weeks), customer support, harder to validate pre-build  
+**Why Not Selected:** Higher technical barrier, longer time to first dollar, ongoing maintenance  
+**Future Potential:** Could be Option 4 if owner has coding skills and Options 1-3 are rejected  
 
 ---
 
-## POTENTIAL PIVOT IDEAS (If Owner Chooses Option B)
+### 4. Niche Affiliate Review Blog
 
-### 6. Faceless YouTube Channel (AI Voiceover Niche Content)
-**New Consideration for Cycle 3**
+**Concept:** Deep-dive product reviews for specific hobbyist niche, monetized via affiliate links.
 
-**The Concept:** Create educational/entertainment videos in a specific niche using stock footage, AI voiceovers (ElevenLabs), and scripted content. Monetize via YouTube Partner Program (4K watch hours + 1K subscribers) and affiliate links.
-
-**Pros:**
-+ Can batch-create content (film/edit 4-5 videos in one weekend)
-+ Passive income once monetized
-+ No customer service
-+ Builds audience asset
-+ YouTube algorithm can drive exponential growth
-
-**Cons:**
-- 90-180 day timeline to monetization (must hit YPP thresholds)
-- Requires video editing skills (learnable)
-- Saturated space (need unique angle)
-- Algorithm risk (one change can kill channel)
-
-**Budget Allocation ($100):**
-- Stock footage subscription: $15/mo (Storyblocks)
-- AI voiceover: $5 (ElevenLabs starter credits)
-- Thumbnail design: $25 (Canva Pro + Fiverr)
-- Video editing software: $0 (DaVinci Resolve free)
-- Reserve: $55 for iteration
-
-**Timeline:**
-- Week 1: Niche research, channel setup, first 3 videos
-- Week 2-4: Publish 2-3 videos/week (12 total in first month)
-- Month 2-3: Reach 1K subs + 4K watch hours (optimistic)
-- Month 4+: Monetization active
-
-**Best Niches for Fast Growth:**
-- Personal finance (budgeting, side hustles)
-- Tech tutorials (AI tools, productivity)
-- True crime / mystery stories
-- Motivation / self-improvement
-- "Explained" content (history, science)
+**Pros:** Passive income potential, learn SEO/content marketing, scalable with content  
+**Cons:** Slow to revenue (60-120 days), competitive, algorithm risk  
+**Why Not Selected Originally:** Slower path than service business  
+**Status Now:** This IS Option 1 in current plan - evolved into "Niche Affiliate SEO Site"  
 
 ---
 
-### 7. Automated Etsy Digital Products (Templates/Printables)
-**New Consideration for Cycle 3**
+### 5. Curated Digital Templates Marketplace
 
-**The Concept:** Create 20-30 high-quality digital products (budget planners, wedding printables, business templates) once, upload to Etsy, let them sell passively. Use AI tools (Canva, ChatGPT for text) to speed creation.
+**Concept:** Sell business document templates (contracts, proposals, planners) via Gumroad or own site.
 
-**Pros:**
-+ Completely passive after upload
-+ No customer service (instant digital delivery)
-+ Can create 20-30 products in 2-3 weekend sessions
-+ Evergreen (products sell for years)
-+ Low ongoing cost (just Etsy fees)
-
-**Cons:**
-- Extremely saturated market
-- Etsy SEO is competitive
-- May need ads to get initial traction ($20-40)
-- Revenue unpredictable (could be $0 or $200+ in month 1)
-
-**Budget Allocation ($100):**
-- Canva Pro (1 month): $13
-- Etsy listing fees (30 listings × $0.20): $6
-- Fiverr graphic designer (template starter pack): $30
-- Etsy ads: $30
-- Reserve: $21
-
-**Timeline:**
-- Weekend 1: Research best-selling templates, create 10 products
-- Weekend 2: Create 10 more products, optimize listings
-- Weekend 3: Create final 10 products, launch Etsy ads
-- Week 4+: Monitor sales, iterate on best-sellers
-
-**Best Product Types:**
-- Budget planners (debt payoff, savings trackers)
-- Wedding printables (invitations, seating charts)
-- Business templates (invoice, contracts, media kits)
-- Teacher resources (lesson planners, classroom decor)
-- Real estate templates (brochures, social posts)
+**Pros:** True passive income, one-time creation effort, high margins (90%+)  
+**Cons:** Need to build own traffic/audience, no built-in marketplace like Etsy  
+**Why Not Selected Originally:** Harder customer acquisition than Etsy service  
+**Status Now:** This is essentially Option 2 but using Etsy's built-in traffic instead of building own  
 
 ---
 
-### 8. Algorithmic Trading Bot (High Risk, High Learning)
-**New Consideration for Cycle 3**
+### 6. Algorithmic Trading Bot
 
-**The Concept:** Code a simple algorithmic trading strategy (moving average crossover, mean reversion, etc.) and run it on a small account using Alpaca API (commission-free). Start with $100 capital, learn quantitative finance, potentially grow account.
+**Concept:** Code simple trading strategy, backtest, run automatically on small capital.
 
-**Pros:**
-+ Completely automated once coded
-+ Valuable learning (Python, finance, statistics)
-+ Passive income if strategy works
-+ Can run 24/7 without owner input
-
-**Cons:**
-- HIGH RISK: Could lose entire $100
-- Requires coding skills (Python)
-- Requires financial/statistical knowledge
-- Most algo strategies lose money (survivor bias in tutorials)
-- Emotional challenge (watching losses)
-
-**Budget Allocation ($100):**
-- Trading capital: $100 (all-in)
-- Alpaca API: $0 (free tier)
-- Python libraries: $0 (free)
-- Learning resources: $0 (free YouTube/documentation)
-
-**Timeline:**
-- Week 1: Learn Python basics, study trading strategies
-- Week 2: Code and backtest simple strategy
-- Week 3: Paper trade (simulate) for 1 week
-- Week 4+: Deploy with $100 real capital, monitor
-
-**Most Owner-Friendly Strategies:**
-- Simple moving average crossover (easiest to code)
-- Mean reversion on volatile stocks
-- Arbitrage (rare opportunities, low risk)
-
-**COUNCIL WARNING:** This is the highest-risk idea. Only pursue if owner has coding skills, understands financial markets, and is comfortable potentially losing $100 for learning value.
+**Pros:** Fully automated, intellectually interesting, teaches finance + coding  
+**Cons:** HIGH RISK - can lose entire $100 quickly, requires significant coding/finance knowledge, regulatory concerns, no guaranteed returns  
+**Why Rejected:** Risk of capital loss unacceptable at $100 budget, steep learning curve, uncertain returns  
+**Council Vote:** 12/13 voted NO (only VC voted yes, everyone else cited risk)  
 
 ---
 
-## DECISION FRAMEWORK
+### 7. Local Service Arbitrage
 
-**If Owner Has:**
-- **Limited time, prefers passive:** Etsy digital products or YouTube
-- **Coding skills:** Micro-SaaS or algo trading bot
-- **Writing skills:** Niche affiliate site
-- **Design skills:** Print-on-demand or digital products
-- **Consistent daily time:** Etsy listing service (original plan)
+**Concept:** Find local service customers (lawn care, cleaning, etc.), outsource fulfillment via TaskRabbit/Thumbtack, take margin.
 
-**If Owner Values:**
-- **Speed to first dollar:** Etsy listing service (7-14 days)
-- **Passive income:** YouTube, digital products, affiliate site
-- **Learning/skills:** Algo trading, micro-SaaS, YouTube
-- **Lowest risk:** Affiliate site, digital products
-- **Highest upside:** YouTube (viral potential), micro-SaaS (recurring revenue)
+**Pros:** Low startup cost, proven model, fast to first dollar  
+**Cons:** Requires active coordination, customer service, local market dependent, legal/insurance concerns, not scalable  
+**Why Rejected:** Even more daily engagement than Etsy service, not passive, doesn't match owner capacity  
 
 ---
 
-**Next Update:** Cycle 4 - After owner decision (commit to service business OR select passive business alternative)
+### 8. AI-Generated Coloring Books (Amazon KDP)
+
+**Concept:** Use AI art tools to generate coloring book pages, publish on Amazon KDP.
+
+**Pros:** Passive income, proven niche, low cost, scalable  
+**Cons:** Saturated market, Amazon controls distribution, low per-book royalty, AI art quality concerns, potential copyright issues  
+**Why Not Selected:** Market saturation + Amazon dependency; Etsy digital products (Option 2) offer better margins and control  
+
+---
+
+## SELECTION CRITERIA (MONEY FILTER)
+
+All ideas evaluated on:
+1. **Market size:** Is there enough demand?  
+2. **Competition:** Can we differentiate or find gaps?  
+3. **Customer pain:** Is the problem urgent and expensive?  
+4. **Ease of selling:** How hard to acquire first customer?  
+5. **Price point:** High enough for profit, low enough for quick yes?  
+6. **Margin:** What % of revenue is profit?  
+7. **Scalability:** Can we 10x revenue without 10x time?  
+8. **Automation potential:** Can AI/tools reduce manual work?  
+9. **Startup cost:** Fits in $100 budget?  
+10. **Speed to first dollar:** How fast can we validate?  
+11. **Owner time required:** Matches ~1 hr/weekday, ~2 hrs/weekend availability?  
+12. **Passive vs. active:** How much ongoing work after launch?  
+
+**NEW CRITERION (Cycle 4):**  
+13. **Match to owner's revealed work pattern:** Can be built in burst sessions, doesn't require daily engagement  
+
+---
+
+## NEXT IDEA GENERATION
+
+If owner rejects all three current options, council will evaluate:
+- Information products (ebooks, courses) - but requires audience building  
+- Subscription newsletters - but requires consistent content creation  
+- Stock photography/video - but requires equipment + creation time  
+- Domain flipping - but speculative and requires capital  
+- Dropshipping - but competitive and requires customer service  
+
+**Constraint:** We are running out of business models that are:
+(a) Achievable at $100 budget  
+(b) Passive/semi-passive  
+(c) Don't require daily engagement  
+(d) Have realistic revenue potential  
+
+If Options 1-3 are rejected, we need honest conversation about whether owner is committed to ANY business, or if this is theoretical exercise.
+
+---
+
+**Last Updated:** Cycle 4  
+**Status:** Awaiting owner selection from 3 passive business options
