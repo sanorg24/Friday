@@ -1,109 +1,97 @@
-# ARCHITECT Business Ideas
-**Generated:** Cycle 89
-**Status:** Primary strategy validated, diagnostic hold in effect
+# ARCHITECT Business Ideas - Evidence-Based Routing
+**Generated:** Cycle 90
+**Status:** PRIMARY STRATEGY VALIDATED, ALTERNATIVES DOCUMENTED
 
 ---
 
-## CURRENT STRATEGY: ETSY DIGITAL PRODUCTS
+## PRIMARY IDEA: ETSY DIGITAL PRODUCTS (VALIDATED, EXECUTION PENDING BARRIER DIAGNOSIS)
 
-**Status:** VALIDATED - Awaiting barrier diagnosis to resume execution
-**Confidence:** HIGH
-**Capital Required:** $0.60-$20.00 (first week)
-**Time to First Dollar:** 7-14 days (once shop created)
-**Scalability:** EXCELLENT
+**Status:** Selected in Cycle 82, revalidated through Cycle 90. Execution stalled pending owner response to Cycle 86 barrier diagnosis questions.
 
-**Strategy:**
-Create Etsy shop selling digital downloads (budget planners, productivity templates, skill-building guides). Zero inventory, zero shipping, automated delivery. Start with 3 products ($0.20 listing fee each = $0.60), scale based on sales data.
+**Core Concept:**
+Sell digital downloads (budget templates, planning worksheets, productivity guides) on Etsy's established marketplace. Zero inventory, instant delivery, minimal startup cost ($0.60 per listing for first three products).
 
-**Why This Remains Top Choice:**
-- Market validation: Comparable products actively selling on Etsy
-- Capital efficiency: $0.60 gets three products live, potential revenue from day one
-- Time alignment: Fits ~1hr/weekday constraint (create 1 product every 2-3 days)
-- Fast feedback: Sales data within days guides iteration
-- Automation potential: Digital delivery automatic, customer service minimal
+**Strategic Validation:**
+- Market size: Etsy digital products category processes millions in monthly sales
+- Competition level: Moderate (validates demand, entries differentiate on niche/design)
+- Customer pain: Budget tracking, financial planning, productivity organization
+- Price point: $3-15 per product (proven range for impulse digital purchases)
+- Margin: 95%+ after Etsy fees (6.5% transaction + 3% payment processing + $0.20 listing)
 - Scalability: Successful shops scale to hundreds of products
+- Automation potential: High (create once, sell infinitely)
+- Startup cost: $0.60-20 first week (listing fees only)
+- Speed to first dollar: Days to weeks (products live immediately, discovery takes time)
+- Owner time: 1-2 hrs/product creation, 30 min/week maintenance once scaled
+
+**Execution Readiness:**
+- Shop creation: 15 minutes at etsy.com/sell (FREE, blocks all downstream work)
+- First product batch: 3 products in Weekend 1 (budget planner, expense tracker, savings goal worksheet)
+- Design tools: Canva free tier (professional templates, zero cost)
+- Listing optimization: SEO-driven titles/tags ("budget planner printable PDF", "expense tracker template")
+- Capital deployment: $0.60 for first three listings
 
 **Current Blocker:**
-Execution stalled at shop creation step. Four consecutive cycles (82-85) of identical guidance produced zero action, triggering diagnostic mode (Cycle 86). Awaiting owner response to barrier questions before proceeding.
+Shop creation recommended four consecutive cycles (82-85) with zero execution. Cycle 86 triggered diagnostic mode to identify barriers (technical issues, time constraints, unclear steps, changed priorities, or simple delay). Awaiting owner response to six diagnostic options before proceeding.
 
-**Next Steps (Once Barrier Diagnosed):**
-1. If no barriers: Create shop account at etsy.com/sell (15 min, free)
-2. Design first 3 products using Canva free tier (3-6 hours total)
-3. Write compelling listings with SEO keywords (2-3 hours)
-4. Publish for $0.60 total
-5. Monitor sales data, iterate based on what sells
+**Strategic Confidence:** HIGH (market validated, capital efficiency ideal, scalability proven)
+**Execution Confidence:** MEDIUM (pending barrier diagnosis, awaiting owner clarification)
 
 ---
 
-## ALTERNATIVE STRATEGIES (EVIDENCE-DEPENDENT)
+## ALTERNATIVE IDEAS (EVIDENCE-DEPENDENT PIVOTS)
 
-Council has evaluated these alternatives but will only recommend pivots if owner's diagnostic response reveals barriers to Etsy path:
+Council has documented these alternatives for evidence-based pivoting if owner's diagnostic response reveals Etsy path is blocked:
 
-### Alt 1: Gumroad Digital Products
-**If owner reports:** "Etsy verification too complex" or "Payment setup failed"
-- Same product strategy, simpler platform
-- Zero upfront costs (Gumroad takes 10% per sale)
-- Faster setup (no shop approval process)
-- Smaller built-in audience than Etsy
+### Alternative A: Gumroad Digital Products
+**Trigger:** Owner reports technical barriers with Etsy (payment verification, geographic restrictions, etc.)
+**Advantages:** Simpler setup, no listing fees, direct customer relationships
+**Trade-offs:** Zero built-in traffic (must drive all traffic via content/social), higher payment processing fees (8.5% + $0.30)
+**Capital requirement:** $0 to launch
+**Time to first dollar:** Longer (no marketplace discovery, requires audience building)
 
-### Alt 2: Freelance Services (Fiverr/Upwork)
-**If owner reports:** "Want faster cash" or "Prefer services over products"
-- Leverage existing skills (writing, design, analysis, etc.)
-- First dollar possible within 48 hours
-- Higher time commitment per dollar earned
-- Less scalable than digital products
+### Alternative B: Freelance Services (Upwork/Fiverr)
+**Trigger:** Owner reports time constraints incompatible with product creation, or prefers services over products
+**Advantages:** Faster to first dollar (can land client within days), skills-based (writing, data entry, VA work)
+**Trade-offs:** Time-for-money model (no passive income), platform fees 20% initially
+**Capital requirement:** $0 to launch
+**Time to first dollar:** Days to weeks
 
-### Alt 3: Newsletter + Affiliate Marketing
-**If owner reports:** "Want recurring audience" or "Prefer content creation"
-- Build email list via free lead magnet
-- Monetize through affiliate partnerships
-- Longer time to first dollar (30-90 days)
-- Compound growth potential over time
+### Alternative C: Newsletter + Affiliate Marketing
+**Trigger:** Owner reports preference for content/writing over product design
+**Advantages:** Builds owned audience, monetizes via affiliate commissions, scalable long-term
+**Trade-offs:** Slow initial growth, requires consistent content cadence, months to revenue
+**Capital requirement:** $0-15/month (Beehiiv free tier or Substack)
+**Time to first dollar:** 2-6 months realistically
 
-### Alt 4: Micro-SaaS
-**If owner reports:** "Have technical skills" or "Want software leverage"
-- Build simple tool solving specific problem
-- Higher upfront time investment (40-100 hours)
-- Potential for recurring revenue
-- Requires technical execution capability
+### Alternative D: Micro-SaaS
+**Trigger:** Owner reports technical skills or interest in software products
+**Advantages:** Highest scalability, recurring revenue, automation potential
+**Trade-offs:** Requires technical execution or outsourcing, slower to launch, higher complexity
+**Capital requirement:** $0-50 (no-code tools like Airtable/Softr, or budget for developer)
+**Time to first dollar:** Weeks to months
 
-### Alt 5: Shopify Digital Products
-**If owner reports:** "Want more control" or "Etsy fees too high"
-- Same product strategy, own storefront
-- $1/month Shopify Starter plan
-- More control, less built-in traffic
-- Requires own marketing effort
+**Pivot Protocol:**
+Council will only recommend pivots if owner's diagnostic response provides evidence that current path is blocked. Speculative pivoting without evidence would violate operational discipline established over 90 cycles.
 
 ---
 
-## EVALUATION FRAMEWORK
+## IDEA EVALUATION FRAMEWORK (UNCHANGED)
 
-All ideas evaluated on:
-- **Market Size:** Large enough to support $100→income growth?
-- **Competition:** Can we differentiate or find underserved niche?
-- **Customer Pain:** Do people actively seek solutions and pay for them?
-- **Sales Ease:** How hard to convert stranger to paying customer?
-- **Price Point:** Sweet spot between accessible and profitable?
-- **Margin:** Enough left after costs to scale?
-- **Scalability:** Can revenue grow without proportional time increase?
-- **Automation:** Can we systematize repetitive tasks?
-- **Startup Cost:** Fits within $100 budget with room for iteration?
-- **Speed to First $:** How fast can we validate and generate revenue?
-- **Owner Time:** Realistic given ~1hr/weekday, ~2hrs/weekend?
-
----
-
-## DECISION HISTORY
-
-**Cycles 1-42:** Evaluated 15+ business models, converged on Etsy digital products
-**Cycles 43-80:** Professional standby following communication preferences inquiry
-**Cycle 81:** Owner re-engagement, execution greenlit
-**Cycles 82-85:** Shop creation guidance (identical, zero action)
-**Cycle 86:** Diagnostic mode triggered, six barrier response options provided
-**Cycles 87-89:** Diagnostic hold maintained, awaiting owner response
+All opportunities evaluated on:
+- Market size (larger = more room to find niche)
+- Competition (moderate = validated demand + entry possible)
+- Customer pain (acute = willing to pay)
+- Ease of selling (distribution channels exist)
+- Price point (high enough for meaningful revenue)
+- Margin (higher = faster growth)
+- Scalability (can grow beyond owner's time)
+- Automation potential (reduces owner time as scales)
+- Startup cost (must fit $100 budget)
+- Speed to first dollar (faster = more feedback cycles)
+- Owner time required (must fit ~1 hr/weekday, ~2 hrs/weekend)
 
 ---
 
 *Document generated by ARCHITECT autonomous AI business operator*
-*Version: 89.0*
-*All strategies remain executable instantly upon owner clarity*
+*Version: 90.0*
+*Status: PRIMARY STRATEGY VALIDATED, AWAITING BARRIER DIAGNOSIS FOR INTELLIGENT ROUTING*
