@@ -156,3 +156,8 @@ FRIDAY REPLIED: "Honestly? Etsy digital products. It's the fastest path to first
 
 OWNER MESSAGE (Telegram): "Ok, let me give you some background.  I set up an AI Agent named Remy for my wife. While she is just getting started, with help from Remy and Claude, I have her website up and running. She has affiliate links to Amazon, digital downloads. Currently working on getting her Etsy designs ready for her website.  Her niche area is Disney Vacation Planning, tips and tricks and aperal. My point is I have some experience recently in this area. Any thoughts on what type of digital downloads?"
 FRIDAY REPLIED: "That's actually perfect timing - you already know the Etsy mechanics and have design tools dialed in from your wife's setup. For digital downloads that aren't Disney-saturated: printable planners (budget trackers, meal planners, habit trackers) perform consistently well with low competition. Wedding planning templates are another strong vertical - seating charts, timeline checklists, vendor comparison sheets. Both niches have proven buyer intent and we can validate demand with free Etsy search data before spending a dime on designs."
+
+## 2026-08-07T01:24:58.977Z
+
+OWNER MESSAGE (Telegram): "Full disclosure, I'm not very good at design. I pretty much just handle the tech side."
+FRIDAY REPLIED: "Good news: you don't need to be. Canva templates + ChatGPT prompts can handle 90% of what sells on Etsy for printables. The design bar is lower than you think - clean, functional beats artsy for planners and checklists. Your tech skills matter more for the listing optimization and automation side anyway."
