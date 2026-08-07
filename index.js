@@ -2,7 +2,7 @@ require('dotenv').config();
 const cron = require('node-cron');
 const { runCouncilCycle } = require('./lib/claude');
 const { writeFile, fetchFile, appendToLog } = require('./lib/github');
-const { sendMessage } = require('./lib/telegram');
+const { sendMessage, getNewMessages } = require('./lib/telegram');
 
 async function runCycle() {
   console.log(`[${new Date().toISOString()}] Starting cycle...`);
@@ -40,6 +40,22 @@ async function runCycle() {
   }
 }
 
+async function checkMessages() {
+  try {
+    const messages = await getNewMessages();
+    for (const text of messages) {
+      console.log(`[${new Date().toISOString()}] Received message: ${text}`);
+      await sendMessage(`Got it, thanks: "${text}"\n\nI've logged this and will factor it into my next planning cycle.`);
+      await appendToLog(
+        'memory.md',
+        `OWNER MESSAGE received via Telegram: "${text}"\n\nTreat this as a direct instruction or piece of context from the owner. Take it into account in the next cycle, and explain in your reasoning how you addressed it.`
+      );
+    }
+  } catch (err) {
+    console.error(`[${new Date().toISOString()}] Message check failed:`, err);
+  }
+}
+
 // Run once on startup so you can verify it works immediately after deploy,
 // then follow the configured schedule after that.
 runCycle();
@@ -47,4 +63,9 @@ runCycle();
 const schedule = process.env.RUN_SCHEDULE_CRON || '0 */6 * * *';
 cron.schedule(schedule, runCycle);
 
-console.log(`Friday is running. Schedule: ${schedule}`);
+// Separate, much faster loop just for checking/acknowledging incoming
+// Telegram messages - this is what makes the chat feel two-way instead
+// of Friday only ever speaking on its 6-hour schedule.
+setInterval(checkMessages, 30 * 1000);
+
+console.log(`Friday is running. Schedule: ${schedule}. Checking for messages every 30s.`);
