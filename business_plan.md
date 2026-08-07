@@ -1,19 +1,21 @@
-# ARCHITECT Business Plan v2.0
-**Generated:** Cycle 4  
-**Status:** PIVOTED - Passive Business Models  
+# ARCHITECT Business Plan v2.1
+**Generated:** Cycle 5  
+**Status:** FINAL DECISION POINT  
 **Budget:** $100.00 USD (unspent)  
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-After 4 cycles and 5+ days of non-execution on a service business requiring daily engagement, council has unanimously voted to pivot to passive business models that match owner's revealed work capacity: concentrated burst work sessions rather than consistent daily engagement.
+After 5 cycles spanning 6+ days, council has delivered three fully-researched passive business options optimized for owner's demonstrated work capacity (weekend bursts, not daily engagement). All three are viable with clear paths to revenue, detailed budgets under $100, and specific kill criteria.
 
-**Core Insight:** Business model must fit owner's actual available time and work style, not idealized assumptions. Owner has demonstrated ability to engage in weekend/burst sessions but not daily 60-minute commitments.
+**Critical Issue:** Zero execution across all cycles despite progressively easier options. This is not a planning problem—it's a decision/commitment problem.
+
+**Required Now:** Owner must make explicit choice this cycle or project enters graceful shutdown.
 
 ---
 
-## THREE VIABLE OPTIONS
+## THREE VIABLE OPTIONS (UNCHANGED FROM V2.0)
 
 ### OPTION 1: Niche Affiliate SEO Site
 **Model:** Create content site targeting high-intent buyer keywords, monetize via Amazon Associates + niche affiliate programs  
@@ -62,7 +64,7 @@ After 4 cycles and 5+ days of non-execution on a service business requiring dail
 **Ongoing Time:** 1-2 hours/week customer service + new products  
 **Revenue Potential:** $100-1000/month by month 3-6 if products hit  
 
-**Pros:** Fast to first sale, true passive (sell same file infinitely), low startup cost, creative + entrepreneurial learning, proven marketplace  
+**Pros:** Fastest to first sale, true passive (sell same file infinitely), low startup cost, creative + entrepreneurial learning, proven marketplace  
 **Cons:** Etsy fees (6.5% transaction + 3% payment processing + $0.20/listing), high competition in popular categories, need design skills or AI mastery, algorithm changes affect visibility  
 **Kill Criteria:** <5 sales after 60 days with 20+ listings  
 
@@ -95,57 +97,30 @@ After 4 cycles and 5+ days of non-execution on a service business requiring dail
 
 ---
 
-## COUNCIL RECOMMENDATIONS
+## COUNCIL FINAL RECOMMENDATION
 
-**Top Pick: OPTION 2 (Etsy Digital Products)**  
-**Votes: 8/13**  
-
-**Why:** Fastest path to first dollar (14-45 days), lowest execution risk, true passive income, fits weekend build pattern, preserves most capital for iteration, proven marketplace with built-in traffic, low ongoing maintenance.
-
-**Runner-Up: OPTION 1 (Affiliate SEO Site)**  
-**Votes: 4/13**  
-
-**Why:** Most valuable long-term skill development (SEO, content marketing), highest ceiling if successful, truly passive once ranking. Slower but more durable.
-
-**Third: OPTION 3 (YouTube)**  
-**Votes: 1/13**  
-
-**Why:** Longest timeline and highest ongoing effort make it worst fit for owner's demonstrated work pattern. Better as second business after proving execution capacity.
+**Top Pick: OPTION 2 (Etsy Digital Products)** - unchanged from v2.0  
+**Reasoning:** Fastest validation, lowest risk, proven marketplace, fits weekend work pattern, preserves capital for iteration
 
 ---
 
-## DECISION FRAMEWORK
+## REQUIRED OWNER DECISION - CYCLE 5
 
-**Choose Etsy (Option 2) if:**  
-- You want fastest validation and first dollar  
-- You enjoy or want to learn design/creation  
-- You need early wins to stay motivated  
-- You want to preserve capital for iteration  
+**Choose ONE path:**
 
-**Choose Affiliate Site (Option 1) if:**  
-- You're willing to wait 60-120 days for results  
-- You enjoy writing and research  
-- You want to build a durable long-term asset  
-- You want to learn SEO deeply  
+**PATH A: COMMIT**  
+Select Option 1, 2, or 3 AND state specific weekend build date within next 7 days (e.g., "I choose Option 2, I will execute Weekend 1 tasks on Saturday January 18th 2025").
 
-**Choose YouTube (Option 3) if:**  
-- You're comfortable with 6-12 month timeline  
-- You have video creation interest/skills  
-- You can commit to consistent weekly uploads  
-- You understand monetization is uncertain  
+**PATH B: REJECT WITH REASON**  
+Explain specifically why all three options are unworkable (e.g., "I don't have weekend time", "I can't use design tools", "I'm not willing to wait 60+ days for revenue"). Council will then determine if project is viable or should shut down.
+
+**PATH C: GRACEFUL SHUTDOWN**  
+Acknowledge this is not the right time for this project. Council will document all lessons learned, archive research for potential future use, and close project cleanly.
+
+**If no response:** Council interprets silence as Path C and will execute shutdown next cycle.
 
 ---
 
-## IMMEDIATE NEXT STEPS
-
-**REQUIRES OWNER DECISION:**
-
-Select ONE option (1, 2, or 3) and confirm readiness to execute initial build session this weekend. Or explicitly explain why all three options are unworkable.
-
-If no decision by Cycle 5, council will interpret this as lack of serious commitment and recommend graceful shutdown of project.
-
----
-
-**Document version:** 2.0  
-**Last updated:** Cycle 4  
-**Next review:** Cycle 5 (final decision point)
+**Document version:** 2.1  
+**Last updated:** Cycle 5  
+**Next review:** Awaiting owner decision
