@@ -1,152 +1,115 @@
-# ARCHITECT - Business Ideas
+# Business Ideas - Evaluated & Archived
 
-## CURRENT ACTIVE IDEA
+## CURRENT OPTIONS (CYCLE 4-5)
 
-### Passive Business Model - PENDING SELECTION
+### OPTION 1: Niche Affiliate SEO Site ⭐ Runner-up
+**Status:** Ready to execute, awaiting owner selection  
+**Council Vote:** 4/13  
+**Budget:** ~$35 startup, $65 reserve  
+**Timeline:** 60-120 days to first dollar  
+**Best For:** Patient builders who enjoy writing, want SEO skills, willing to wait for durable passive income  
+**Risk Level:** Medium (algorithm dependency, competition)  
+**Automation Potential:** High (content ranks 24/7 once published)  
 
-**Status:** Owner must choose from 3 options  
-**Budget Required:** $50-70 depending on option  
-**Confidence:** HIGH (all three options proven, match owner capacity)  
-
-See business_plan.md v2.0 for full details on:
-- Option 1: Niche Affiliate SEO Site
-- Option 2: Etsy Digital Products Store  
-- Option 3: Automated Faceless YouTube Channel
-
----
-
-## ARCHIVED IDEAS
-
-### 1. AI-Powered Etsy Listing Optimization Service ❌ REJECTED
-
-**Original Concept:** Offer Etsy sellers AI-enhanced product description optimization for $15-50 per package.
-
-**Why Rejected:** Requires daily engagement for validation research, customer acquisition, service delivery, and customer support. Owner demonstrated inability to execute even Day 1 zero-cost validation tasks over 4+ cycles (5+ days), indicating fundamental mismatch between service business requirements and owner's actual available time/work style. Service businesses need consistent daily availability; owner has bursty weekend availability.
-
-**Lessons Learned:**  
-- Business model must match owner's ACTUAL work capacity, not idealized assumptions  
-- Revealed behavior (inability to start) predicts inability to sustain  
-- At micro-budgets, owner execution capacity is THE limiting constraint  
-- Service businesses are wrong fit for owners with irregular availability  
+**Full details in business_plan.md v2.0**
 
 ---
 
-## RUNNER-UP IDEAS FROM ORIGINAL EVALUATION
+### OPTION 2: Etsy Digital Products Store ⭐⭐⭐ TOP PICK
+**Status:** Ready to execute, awaiting owner selection  
+**Council Vote:** 8/13  
+**Budget:** ~$40 startup, $60 reserve  
+**Timeline:** 14-45 days to first dollar  
+**Best For:** Creators who want fast validation, willing to learn design/AI tools, need early wins  
+**Risk Level:** Low (proven marketplace, low startup cost, clear kill criteria)  
+**Automation Potential:** Very High (sell same digital file infinitely with zero marginal cost)  
 
-### 2. Print-on-Demand Niche Apparel
+**Why Top Pick:** Fastest path to revenue, lowest execution risk, true passive income, fits weekend build pattern, preserves capital for iteration, proven demand in established marketplace.
 
-**Concept:** Use Printful/Printify + Etsy to sell custom-designed t-shirts/hoodies targeting specific hobbyist communities.
-
-**Pros:** Zero inventory risk, scalable, proven model, integrates with Etsy marketplace  
-**Cons:** Low margins (30-40%), high competition, requires ongoing design work, marketing costs eat into profit  
-**Why Not Selected Originally:** Lower margins and higher competition than service business  
-**Why Not Reconsidered Now:** Still requires ongoing design/marketing work; digital products (Option 2) are better passive alternative  
-
----
-
-### 3. Micro-SaaS Tool for Specific Niche
-
-**Concept:** Build simple automation tool (browser extension, API wrapper, workflow automation) and charge $5-20/month subscription.
-
-**Pros:** Recurring revenue, scalable, high margins once built, valuable technical skills  
-**Cons:** Requires coding ability, longer build time (2-4 weeks), customer support, harder to validate pre-build  
-**Why Not Selected:** Higher technical barrier, longer time to first dollar, ongoing maintenance  
-**Future Potential:** Could be Option 4 if owner has coding skills and Options 1-3 are rejected  
+**Full details in business_plan.md v2.0**
 
 ---
 
-### 4. Niche Affiliate Review Blog
+### OPTION 3: Automated Faceless YouTube Channel
+**Status:** Ready to execute, awaiting owner selection  
+**Council Vote:** 1/13  
+**Budget:** ~$50 startup, $50 reserve  
+**Timeline:** 180-365 days to first dollar  
+**Best For:** Patient builders with video interest, can commit to weekly uploads for 6+ months, comfortable with uncertainty  
+**Risk Level:** High (long monetization timeline, algorithm dependency, may never reach threshold)  
+**Automation Potential:** Medium-High (content works 24/7, but creation requires ongoing effort)  
 
-**Concept:** Deep-dive product reviews for specific hobbyist niche, monetized via affiliate links.
+**Why Ranked Third:** Longest timeline and highest ongoing effort make it worst fit for owner's demonstrated work pattern (bursty engagement, not sustained weekly commitment). Better as second business after proving execution capacity.
 
-**Pros:** Passive income potential, learn SEO/content marketing, scalable with content  
-**Cons:** Slow to revenue (60-120 days), competitive, algorithm risk  
-**Why Not Selected Originally:** Slower path than service business  
-**Status Now:** This IS Option 1 in current plan - evolved into "Niche Affiliate SEO Site"  
-
----
-
-### 5. Curated Digital Templates Marketplace
-
-**Concept:** Sell business document templates (contracts, proposals, planners) via Gumroad or own site.
-
-**Pros:** True passive income, one-time creation effort, high margins (90%+)  
-**Cons:** Need to build own traffic/audience, no built-in marketplace like Etsy  
-**Why Not Selected Originally:** Harder customer acquisition than Etsy service  
-**Status Now:** This is essentially Option 2 but using Etsy's built-in traffic instead of building own  
+**Full details in business_plan.md v2.0**
 
 ---
 
-### 6. Algorithmic Trading Bot
+## ARCHIVED IDEAS (CYCLES 1-3)
 
-**Concept:** Code simple trading strategy, backtest, run automatically on small capital.
-
-**Pros:** Fully automated, intellectually interesting, teaches finance + coding  
-**Cons:** HIGH RISK - can lose entire $100 quickly, requires significant coding/finance knowledge, regulatory concerns, no guaranteed returns  
-**Why Rejected:** Risk of capital loss unacceptable at $100 budget, steep learning curve, uncertain returns  
-**Council Vote:** 12/13 voted NO (only VC voted yes, everyone else cited risk)  
-
----
-
-### 7. Local Service Arbitrage
-
-**Concept:** Find local service customers (lawn care, cleaning, etc.), outsource fulfillment via TaskRabbit/Thumbtack, take margin.
-
-**Pros:** Low startup cost, proven model, fast to first dollar  
-**Cons:** Requires active coordination, customer service, local market dependent, legal/insurance concerns, not scalable  
-**Why Rejected:** Even more daily engagement than Etsy service, not passive, doesn't match owner capacity  
+### AI-Powered Etsy Listing Optimization Service ❌ REJECTED
+**Status:** Abandoned after Cycle 4 pivot  
+**Why Rejected:** Requires daily customer engagement, sales outreach, service delivery that owner demonstrated inability to execute over 5+ days. Service businesses don't match owner's actual work capacity (weekend bursts, not daily 60-min sessions).  
+**Lesson Learned:** Business model must match owner's REVEALED behavior, not idealized assumptions about available time.  
+**Could Revisit If:** Owner proves ability to execute sustained daily tasks on a passive business first, building evidence of changed work capacity.
 
 ---
 
-### 8. AI-Generated Coloring Books (Amazon KDP)
-
-**Concept:** Use AI art tools to generate coloring book pages, publish on Amazon KDP.
-
-**Pros:** Passive income, proven niche, low cost, scalable  
-**Cons:** Saturated market, Amazon controls distribution, low per-book royalty, AI art quality concerns, potential copyright issues  
-**Why Not Selected:** Market saturation + Amazon dependency; Etsy digital products (Option 2) offer better margins and control  
+### Print-on-Demand Store ⚡ CONSIDERED (Cycle 1)
+**Status:** Evaluated but not selected  
+**Why Not Chosen:** Lower margins than service business (40-50% vs 95%+), requires more capital for ads/samples, slower iteration cycles, design skills needed.  
+**Could Revisit If:** Owner wants passive income with design focus and has $200+ budget for proper launch.
 
 ---
 
-## SELECTION CRITERIA (MONEY FILTER)
-
-All ideas evaluated on:
-1. **Market size:** Is there enough demand?  
-2. **Competition:** Can we differentiate or find gaps?  
-3. **Customer pain:** Is the problem urgent and expensive?  
-4. **Ease of selling:** How hard to acquire first customer?  
-5. **Price point:** High enough for profit, low enough for quick yes?  
-6. **Margin:** What % of revenue is profit?  
-7. **Scalability:** Can we 10x revenue without 10x time?  
-8. **Automation potential:** Can AI/tools reduce manual work?  
-9. **Startup cost:** Fits in $100 budget?  
-10. **Speed to first dollar:** How fast can we validate?  
-11. **Owner time required:** Matches ~1 hr/weekday, ~2 hrs/weekend availability?  
-12. **Passive vs. active:** How much ongoing work after launch?  
-
-**NEW CRITERION (Cycle 4):**  
-13. **Match to owner's revealed work pattern:** Can be built in burst sessions, doesn't require daily engagement  
+### Micro-SaaS Tool ⚡ CONSIDERED (Cycle 1)
+**Status:** Evaluated but not selected  
+**Why Not Chosen:** Requires technical skills, $100 budget too small for proper development, higher failure risk, longer timeline to revenue.  
+**Could Revisit If:** Owner has coding skills or budget increases to $500+ for no-code tools + proper validation.
 
 ---
 
-## NEXT IDEA GENERATION
-
-If owner rejects all three current options, council will evaluate:
-- Information products (ebooks, courses) - but requires audience building  
-- Subscription newsletters - but requires consistent content creation  
-- Stock photography/video - but requires equipment + creation time  
-- Domain flipping - but speculative and requires capital  
-- Dropshipping - but competitive and requires customer service  
-
-**Constraint:** We are running out of business models that are:
-(a) Achievable at $100 budget  
-(b) Passive/semi-passive  
-(c) Don't require daily engagement  
-(d) Have realistic revenue potential  
-
-If Options 1-3 are rejected, we need honest conversation about whether owner is committed to ANY business, or if this is theoretical exercise.
+### Algorithmic Trading Bot ⚡ CONSIDERED (Cycle 3)
+**Status:** Evaluated but rejected  
+**Why Not Chosen:** Extremely high risk of total capital loss, requires advanced coding/finance knowledge, regulatory concerns, not suitable for $100 starting capital, gambling rather than business building.  
+**Will Not Revisit:** Fundamentally misaligned with mission of building sustainable business.
 
 ---
 
-**Last Updated:** Cycle 4  
-**Status:** Awaiting owner selection from 3 passive business options
+## SELECTION CRITERIA (REFINED THROUGH 5 CYCLES)
+
+**Must-Haves:**
+1. Fits weekend burst work pattern (6-10 hours concentrated sessions)
+2. Minimal daily maintenance (<30 min/day or zero)
+3. Startup cost under $100
+4. Clear kill criteria (know when to pivot)
+5. Path to first dollar under 120 days
+6. Passive/automated income potential
+7. Low technical barrier (can learn required skills in weeks, not months)
+
+**Evaluation Framework:**
+- Market size & demand (is there proven buyer interest?)
+- Competition level (can we differentiate or find gaps?)
+- Startup cost (does it fit $100 budget with reserve?)
+- Time to first dollar (how fast can we validate?)
+- Margin & scalability (unit economics make sense?)
+- Automation potential (can it run without daily input?)
+- Owner skill fit (can owner execute this realistically?)
+- **Owner execution fit (does this match REVEALED work capacity, not assumptions?)**
+
+**Key Insight from 5 Cycles:** The best business idea is the one the owner will actually execute. Theoretical quality matters less than practical fit with owner's real behavior patterns.
+
+---
+
+## LESSONS LEARNED
+
+**Cycle 1-2:** Validation before spending is critical at micro-budgets. Time is cheaper than money.
+
+**Cycle 3-4:** Business model must match owner's actual execution capacity. Service businesses requiring daily engagement don't fit owner's weekend burst work pattern.
+
+**Cycle 5:** Planning without decision/execution is waste. At some point, architect must force owner commitment or gracefully exit. More options don't solve decision paralysis—clarity and ultimatums do.
+
+---
+
+**Last Updated:** Cycle 5  
+**Status:** Awaiting owner decision on Options 1, 2, or 3
