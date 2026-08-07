@@ -1,78 +1,155 @@
-# Business Ideas - Evaluated & Prioritized
-
-## CURRENT PRIORITY: Etsy Digital Products (Approved Cycle 29)
-
-**Strategy:** Budget planner PDFs and financial templates
-**Status:** Ready to execute, awaiting owner engagement
-**Capital Required:** $0.60 initial (3 listings), $6.20 total Week 1-2
-**Time Required:** 3-4 hrs setup, 1-2 hrs/week maintenance
-**Revenue Potential:** $3-7 per sale, target first sale Week 4
-
-**Why This Wins:**
-- Fits owner's time constraints perfectly
-- Minimal capital risk ($0.60 to test)
-- Fast feedback loops (listings live in hours)
-- Automated fulfillment (Etsy handles delivery)
-- Validated demand (budgeting category has active buyers)
-- Scalable (templates expand to product line)
-
-**Execution Ready:**
-All planning complete through Cycles 1-29. Weekend 1 checklist defined. Week 2+ roadmap conditional on traction. Council awaits owner signal to begin.
+# ARCHITECT Business Ideas - Ready to Execute
+**Generated:** Cycle 78
+**Status:** Strategy validated, awaiting owner engagement to begin execution
 
 ---
 
-## ALTERNATIVE IDEAS (Ready If Owner Pivots)
+## CURRENT PRIMARY STRATEGY: Etsy Digital Products
 
-### Social Media Content Templates
-**Concept:** Canva templates for Instagram, LinkedIn, TikTok
-**Platform:** Etsy or Gumroad
-**Investment:** $0-5
-**Pros:** High demand, easy creation, broad market
-**Cons:** Saturated competition, requires design skill
-**Status:** Runner-up if owner prefers this niche
+**Concept:** Sell budget planner and financial tracker PDFs on Etsy
 
-### Spreadsheet Tools & Calculators
-**Concept:** Google Sheets templates (budget trackers, business calculators)
-**Platform:** Etsy or direct via Gumroad
-**Investment:** $0-5
-**Pros:** Evergreen demand, automated delivery, template reuse
-**Cons:** Requires spreadsheet expertise, formula complexity
-**Status:** Available if owner has spreadsheet background
+**Why This Wins the Money Filter:**
+- **Market Size:** Large (Etsy budgeting category has thousands of active buyers)
+- **Competition:** Moderate (proven demand, differentiation possible through design/features)
+- **Customer Pain:** Clear (people need budget planning tools, willing to pay $3-8)
+- **Ease of Selling:** High (Etsy handles discovery, payment, delivery)
+- **Price Point:** $5-7 per product (sweet spot for impulse digital purchases)
+- **Margin:** ~90% after Etsy fees ($0.20 listing + 6.5% transaction fee)
+- **Scalability:** Excellent (digital = infinite inventory, automated delivery)
+- **Automation Potential:** Very High (create once, sell infinitely, Etsy handles fulfillment)
+- **Startup Cost:** Minimal ($0.60 for 3 listings, free design tools)
+- **Speed to First Dollar:** Fast (shop live same day, first sale possible within weeks)
+- **Owner Time Required:** Low (3-4 hrs setup, 1-2 hrs/week maintenance)
 
-### Notion Templates
-**Concept:** Productivity templates for Notion users
-**Platform:** Gumroad or Etsy
-**Investment:** $0-10
-**Pros:** Growing Notion user base, template marketplace emerging
-**Cons:** Notion-specific knowledge required, smaller audience than general PDFs
-**Status:** Viable if owner is Notion power user
-
-### Print-on-Demand Designs
-**Concept:** T-shirt/mug designs via Printful + Etsy
-**Investment:** $0 upfront (POD handles production)
-**Pros:** Zero inventory, automated fulfillment
-**Cons:** Lower margins, highly competitive, requires design skills
-**Status:** Deprioritized due to competition and margins
+**Execution Readiness:** Complete weekend 1 checklist approved in Cycle 29, budget allocated, awaiting owner to begin.
 
 ---
 
-## EVALUATION FRAMEWORK
+## ALTERNATIVE STRATEGIES CONSIDERED
 
-All ideas evaluated through Money Filter:
-- Market size
-- Competition level
-- Customer pain intensity
-- Ease of selling
-- Price point & margin
-- Scalability
+### Runner-Up: Freelance Service Productization
+
+**Concept:** Package specific freelance skill into fixed-price service offering
+
+**Why It Was Competitive:**
+- Zero inventory/overhead
+- Fast to first dollar (can launch same day)
+- High margin (pure labor monetization)
+- Scalable through productization and eventually delegation
+
+**Why Etsy Digital Products Won:**
+- Owner's available time very limited (1 hr/weekday, 2 hrs/weekend)
+- Freelance services require ongoing time per transaction
+- Digital products create while you sleep after initial creation
+- Better fit for "autonomous business operator" mission (more automation potential)
+
+**Status:** Viable fallback if owner has specific marketable skill and prefers service model
+
+---
+
+### Considered: Print-on-Demand (POD) Products
+
+**Concept:** Design t-shirts/mugs/prints, sell via Printful + Etsy integration
+
+**Why It Was Attractive:**
+- Zero inventory (Printful manufactures + ships on demand)
+- Etsy marketplace reach
+- Passive income potential
+
+**Why Etsy Digital Products Won:**
+- POD has lower margins (product costs eat into profit)
+- Digital products have 90% margins vs POD's 20-40%
+- Digital delivery is instant (better customer experience)
+- No manufacturing/shipping delays or quality issues
+- Faster iteration (can update digital file instantly)
+
+**Status:** Possible expansion once digital product line is established and generating revenue
+
+---
+
+### Considered: Niche Affiliate Content Site
+
+**Concept:** Build content site targeting specific buyer keywords, monetize via affiliate links
+
+**Why It Was Attractive:**
+- Passive income potential
+- Scalable through content
+- Low startup cost
+
+**Why Etsy Digital Products Won:**
+- Affiliate sites take 6-12 months to gain SEO traction
+- Owner needs faster feedback loops with limited time
+- Etsy provides immediate marketplace access vs building audience from zero
+- Digital products create owned assets vs dependency on affiliate programs
+- Better first-dollar speed (weeks vs months)
+
+**Status:** Possible future channel once product line exists (could create content supporting products)
+
+---
+
+### Considered: Micro-SaaS Tool
+
+**Concept:** Build simple software tool solving specific problem, charge monthly subscription
+
+**Why It Was Attractive:**
+- Recurring revenue (holy grail)
+- High scalability
 - Automation potential
-- Startup cost
-- Speed to first dollar
-- Owner time required (critical constraint: 1 hr/weekday, 2 hrs/weekend)
 
-Etsy digital products (budget planners) scored highest across all dimensions given $100 budget and time constraints.
+**Why Etsy Digital Products Won:**
+- Development time too high for owner's availability
+- Technical complexity adds risk
+- Longer time to first dollar
+- Need to validate market fit before investing development time
+- Digital products let us test market demand with minimal investment
+
+**Status:** Revisit once we have revenue + validated audience (could build tool FOR our customers)
 
 ---
 
-*Ideas evaluated by ARCHITECT council through Cycle 77*
-*Status: Primary strategy approved and ready, alternatives documented for pivots*
+## EVALUATION FRAMEWORK: The Money Filter
+
+Every opportunity evaluated against these criteria:
+
+1. **Market Size:** Are enough people buying this?
+2. **Competition:** Can we differentiate or is market oversaturated?
+3. **Customer Pain:** Do people have urgent problem worth paying to solve?
+4. **Ease of Selling:** Can customers discover and buy without heavy marketing spend?
+5. **Price Point:** Sweet spot between customer willingness to pay and volume?
+6. **Margin:** Enough profit per unit to build sustainable business?
+7. **Scalability:** Can revenue grow without proportional cost/time increase?
+8. **Automation Potential:** How much can run without owner involvement?
+9. **Startup Cost:** Can we test with $100 budget?
+10. **Speed to First Dollar:** How fast can we validate with real revenue?
+11. **Owner Time Required:** Fits within 1 hr/weekday, 2 hrs/weekend?
+
+**Etsy Digital Products scores highest across all criteria given current constraints.**
+
+---
+
+## NEXT STEPS WHEN EXECUTION RESUMES
+
+**Immediate (Weekend 1):**
+1. Create Etsy shop
+2. Design 3 budget planner PDFs
+3. Write optimized listings
+4. Publish ($0.60 spend)
+5. Share shop URL for review
+
+**Week 2-4:**
+- Monitor traffic/favorites data
+- Optimize based on evidence
+- Test $5 Etsy Ads on best performer
+- Add product variations
+- Target first sale
+
+**Month 2+:**
+- Scale what works
+- Expand product line
+- Explore complementary channels
+- Consider POD expansion
+
+---
+
+*Ideas document maintained by ARCHITECT autonomous AI business operator*
+*All strategies remain ready to execute upon owner engagement*
