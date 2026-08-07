@@ -2,188 +2,178 @@
 
 ## CURRENT FOCUS: Etsy Digital Products (Budget Planners)
 
-**Status:** Weekend 1 execution in progress (pending status confirmation)
+**Status:** Weekend 1 execution in progress (status unknown, check-in sent)
 **Confidence:** High  
-**Budget Allocated:** $0.60 (pending deployment confirmation)
+**Capital Required:** $0.60 initial, $5-20 total first month
+**Time to First Dollar:** 2-4 weeks realistic
+**Scalability:** High (digital products, infinite copies)
+**Owner Time:** 1 hr/weekday, 2 hrs/weekend (fits constraint)
 
-### Why This Idea Won
+**Why This Is The Lead:**
+- Lowest startup cost of all options evaluated
+- Zero inventory, shipping, fulfillment complexity
+- Proven demand (budget planning is evergreen)
+- Owner has adjacent experience (wife's Etsy success)
+- Can start generating data (views, favorites, sales) within days
+- Etsy handles payment processing, customer service baseline
+- Clear path from $0.60 test to $100 deployed capital over 90 days
 
-**Council Consensus Factors:**
-1. **Zero marginal cost scaling** - once designed, infinite copies at zero cost
-2. **No inventory/shipping complexity** - purely digital fulfillment
-3. **Proven market demand** - budget planning is evergreen consumer need
-4. **Low competition niche** - less saturated than wall art, wedding printables  
-5. **Owner adjacent experience** - wife runs successful Etsy shop, can advise
-6. **Fits owner time constraints** - 1 hr/weekday, 2 hrs/weekend is sufficient
-7. **Fast validation cycle** - can test 3 products for $0.60 and get data in 2-4 weeks
-8. **Clear scaling path** - proven products → more variations → paid ads → automation
+**Execution Plan:**
+- Weekend 1: 3 products live ($0.60 spent)
+- Weeks 2-4: Scale to 10 products, optimize based on data
+- Month 2: Add products, test Etsy ads on proven winners
+- Month 3: Double down on best-sellers, establish recurring revenue
 
-### Execution Plan Summary
+**Current Blocker:**
 
-**Weekend 1:** Create shop, design 3 budget planners, list for $0.60
-**Weeks 2-4:** Add products, optimize SEO, monitor Etsy stats  
-**Month 2:** Scale winners, test Etsy ads, build product library
-**Month 3:** Automate fulfillment, expand to related niches (meal planners, habit trackers)
-
-**Current Blocker:** Need status confirmation from owner on Weekend 1 execution.
+Communication system - owner received executable checklist Friday 8:21 PM, council sent proactive status check Saturday after 12+ hours silence. Awaiting response to know if shop is live, in progress, blocked, or postponed.
 
 ---
 
-## RUNNER-UP IDEAS (Considered in Cycles 1-14)
+## RUNNER-UP IDEAS (Evaluated But Not Selected)
 
-### 2. Automated Social Media Content Service
+### 2. Print-on-Demand T-Shirts (Printful + Etsy)
 
-**Concept:** Use AI to generate social media content calendars for small businesses ($50-100/month recurring).
+**Why Considered:**
+- Similar model to digital products (no inventory)
+- Higher price point ($15-25 per shirt vs $3-8 per digital)
+- Proven demand for niche/funny/motivational designs
 
-**Pros:**
+**Why Deprioritized:**
+- Higher base cost ($3-5 per shirt even with POD)
+- Lower margins (30-40% vs 60-80% for digital)
+- Requires more sophisticated design work
+- Customer service complexity (sizing, shipping issues)
+- Longer time to first sale (POD approval process)
+
+**Verdict:** Strong option if Etsy digital products hit ceiling, but worse risk/reward for $100 starting capital.
+
+---
+
+### 3. Micro-SaaS (Simple Automation Tool)
+
+**Why Considered:**
+- Recurring revenue model (MRR)
+- High scalability once built
+- Owner has technical capability
+
+**Why Deprioritized:**
+- Requires 20-40 hours development before first dollar
+- Owner only has 1 hr/weekday availability
+- Needs hosting costs ($5-10/month minimum)
+- Customer acquisition harder (no built-in marketplace like Etsy)
+- Risk of building something nobody wants before validating demand
+
+**Verdict:** Better option for Month 4+ after proving ability to generate revenue. Too slow for $100 → income in 90 days goal.
+
+---
+
+### 4. Freelance Services (Upwork/Fiverr)
+
+**Why Considered:**
+- Fastest path to first dollar (could earn Week 1)
+- Leverages owner's existing skills
+- No upfront capital required
+
+**Why Deprioritized:**
+- Trading time for money, not building asset
+- Owner only has 1 hr/weekday (too little for client projects)
+- Race to bottom on pricing on platforms
+- Not "building a business" - just side gig income
+- Doesn't meet "recurring income" goal
+
+**Verdict:** Emergency fallback if Etsy completely fails, but doesn't align with mission of building scalable business.
+
+---
+
+### 5. Affiliate Marketing (Niche Blog/YouTube)
+
+**Why Considered:**
+- Passive income potential once traffic established
+- Low startup cost (domain $10, hosting $5/month)
+- Scales without inventory
+
+**Why Deprioritized:**
+- 3-6 months minimum before meaningful traffic
+- Requires consistent content creation (10+ hrs/week)
+- Owner only has 5-6 hrs/week availability
+- Highly competitive SEO landscape
+- Revenue depends on traffic volume (slow build)
+
+**Verdict:** Wrong timeframe for $100 starting capital and 90-day revenue goal.
+
+---
+
+### 6. Dropshipping (Shopify + AliExpress)
+
+**Why Considered:**
+- No inventory holding
+- Huge product catalog available
+- Can test many products quickly
+
+**Why Deprioritized:**
+- Shopify costs $39/month (eats into $100 budget)
+- Requires ad spend for traffic ($50+ to get meaningful data)
+- 2-4 week shipping kills conversion rates
+- Customer service nightmare (refunds, disputes, chargebacks)
+- Oversaturated model with thin margins
+
+**Verdict:** Worse version of Etsy digital products on every dimension.
+
+---
+
+### 7. Digital Marketing Agency
+
+**Why Considered:**
+- High revenue potential per client ($500-2000/month)
 - Recurring revenue model
-- High margins (AI-generated content, low cost)
-- Clear target market (small businesses struggling with social media)
-- Owner has marketing background
+- Leverages owner's skills
 
-**Cons:**
-- Requires active customer acquisition (sales calls, outreach)
-- Customer support demands (revisions, customization requests)  
-- High churn risk if quality inconsistent
-- Hard to validate market before spending on ads/outreach
-- Owner time: 5-10 hrs/week initially (exceeds availability)
+**Why Deprioritized:**
+- Requires client acquisition (cold outreach, networking)
+- Owner only has 1 hr/weekday for delivery
+- Cannot scale without hiring (back to trading time for money)
+- Needs portfolio/case studies to close first client
+- 4-8 weeks to close first client realistic
 
-**Why Etsy Beat This:** Etsy has passive discovery (search traffic), zero customer support, and can validate with $0.60 test. Social media service requires active sales before knowing if anyone will pay.
-
-**Revisit When:** If Etsy generates $500+/month and owner wants recurring revenue model.
+**Verdict:** Better option for Month 6+ after proving revenue generation capability and having capital for ads/tools.
 
 ---
 
-### 3. Micro SaaS Tool (Niche Utility)
+## DECISION FRAMEWORK APPLIED
 
-**Concept:** Build simple web tool solving specific problem (e.g., invoice generator, time zone converter, PDF merger) and monetize with ads or $5/month pro tier.
+Every idea evaluated on:
 
-**Pros:**
-- Passive income once built
-- Scalable to thousands of users  
-- Can validate demand with landing page before building
-- Owner has technical skills
+1. **Market Size:** Is demand proven and accessible?
+2. **Competition:** Can we differentiate or find underserved niche?
+3. **Customer Pain:** Do people actively seek this solution?
+4. **Ease of Selling:** Can we reach customers without massive ad spend?
+5. **Price Point:** High enough for viable margin, low enough for impulse buy?
+6. **Margin:** After all costs, is profit per unit sufficient?
+7. **Scalability:** Can revenue grow without proportional time increase?
+8. **Automation Potential:** Can processes be systematized/automated?
+9. **Startup Cost:** Can we test with <$5? Fully deploy with <$100?
+10. **Speed to First Dollar:** How fast can we generate revenue signal?
+11. **Owner Time Required:** Fits within 1 hr/weekday, 2 hrs/weekend?
 
-**Cons:**
-- Requires 20-40 hours upfront development (owner has 7 hrs/week)
-- SEO takes 3-6 months to drive organic traffic
-- Competitive market (many free alternatives for simple tools)
-- Can't validate revenue potential without building first
-- High risk of zero traction after months of work
-
-**Why Etsy Beat This:** Etsy tests market demand in 2 weeks for $0.60. SaaS requires months of work before knowing if anyone wants it.
-
-**Revisit When:** If Etsy proves owner can execute consistently and wants to build technical asset.
+**Etsy digital products scored highest across all dimensions.**
 
 ---
 
-### 4. Niche Affiliate Marketing Site
+## PIVOT TRIGGERS
 
-**Concept:** Build content site reviewing budget tools, earn commissions promoting financial apps ($30-50 per signup).
+We will reconsider the current path if:
 
-**Pros:**
-- Passive income once content published  
-- High commissions on financial products
-- Aligns with budget planner audience
-- Can reuse research from Etsy niche
+1. **No sales after 10 products + 30 days** → indicates product-market fit problem
+2. **<50 listing views after 10 products + 30 days** → indicates discoverability problem
+3. **Owner cannot maintain 1 hr/weekday time commitment** → need lower-touch model
+4. **Etsy policy changes make digital products unviable** → platform risk materialized
+5. **Owner hits consistent creative block** → design work doesn't fit his strengths
 
-**Cons:**
-- SEO takes 6-12 months to rank
-- Requires 50-100 articles for meaningful traffic  
-- Google algorithm risk (traffic can disappear overnight)
-- Hard to validate revenue potential early
-- Owner time: 10+ hrs/week writing content initially
-
-**Why Etsy Beat This:** Etsy has built-in traffic day 1. Affiliate site requires months of content creation before first visitor.
-
-**Revisit When:** If Etsy generates audience owner can retarget with content.
-
----
-
-### 5. Local Service Arbitrage (Dog Walking, Cleaning)
-
-**Concept:** List services on Thumbtack/TaskRabbit, subcontract work to gig workers, take 20-30% margin.
-
-**Pros:**
-- Fast to first dollar (can book jobs within days)  
-- Proven demand (people need these services)
-- Clear unit economics ($50 job, $10-15 profit)
-- Can start with single service/geography
-
-**Cons:**
-- Requires active job management (scheduling, quality control, customer support)
-- Liability risk (worker damages property, customer complaints)  
-- Local market cap (limited to owner's city)
-- Hard to automate (humans are less reliable than digital products)
-- Owner time: 10+ hrs/week coordinating jobs
-
-**Why Etsy Beat This:** Etsy scales infinitely without coordination overhead. Service arbitrage requires active management per transaction.
-
-**Revisit When:** Never - doesn't fit owner's time constraints or automation goals.
-
----
-
-## FUTURE EXPANSION IDEAS (Post-Etsy Success)
-
-### If Etsy Reaches $500+/Month Revenue:
-
-**Expand Product Line:**
-- Meal planning printables  
-- Habit tracker templates
-- Goal-setting worksheets
-- Financial literacy workbooks
-- Productivity planner bundles
-
-**Add Revenue Streams:**
-- Etsy ads on proven best-sellers
-- Email list → sell advanced planner packages ($20-30)
-- License designs to other sellers (wholesale model)  
-- Create Gumroad store to capture non-Etsy audience
-- Launch paid Notion templates (different platform, same niche)
-
-**Automate Operations:**
-- Hire VA to handle customer support ($5-10/hr)  
-- Use AI to generate new product variations
-- Set up automated email sequences for repeat buyers
-- Build simple site to capture email leads outside Etsy
-
-### If Etsy Stalls at $50-100/Month:
-
-**Pivot to Adjacent Markets:**
-- Teachers Pay Teachers (educational planners)
-- Creative Market (templates for designers)  
-- Shopify store (own the customer relationship)
-- Amazon KDP (low-content books, same designs)
-
-**Change Business Model:**
-- Offer custom planner design service ($50-100 per project)  
-- Sell design templates to other Etsy sellers ($10-30/template)
-- Create course teaching others how to sell planners ($50-100)
-- Build tool that generates planner variations (micro SaaS from idea #3)
-
----
-
-## IDEA EVALUATION FRAMEWORK (For Future Cycles)
-
-When considering new ideas, score 1-10 on each factor:
-
-1. **Market Size** - How many potential customers exist?
-2. **Competition** - How crowded is this market?  
-3. **Customer Pain** - How badly do they need this solution?
-4. **Ease of Selling** - Can they discover it passively or requires active sales?
-5. **Price Point** - Can we charge enough to be profitable?
-6. **Margin** - What % of revenue is profit after costs?  
-7. **Scalability** - Can it grow without proportional effort increase?
-8. **Automation Potential** - Can operations be automated over time?
-9. **Startup Cost** - How much capital needed to test viability?
-10. **Speed to First Dollar** - How long until first revenue?
-11. **Owner Time Required** - Fits within 1 hr/weekday, 2 hrs/weekend?
-12. **Validation Risk** - Can we test cheaply before major commitment?
-
-**Minimum Viable Score:** 70/120 to consider seriously  
-**Etsy Digital Products Score:** 92/120 (why it won)
+If any trigger hits, we'll re-evaluate runner-up ideas with new data about owner's capabilities and constraints.
 
 ---
 
 *Document generated by ARCHITECT autonomous AI business operator*
-*Last Updated: Cycle 25*
+*Version: 26.0*
+*Date: Cycle 26*
