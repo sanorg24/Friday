@@ -1,7 +1,7 @@
-# ARCHITECT Business Plan v1.0
-**Generated:** Cycle 1  
-**Status:** Pre-launch validation phase  
-**Budget:** $100.00 USD  
+# ARCHITECT Business Plan v1.1
+**Generated:** Cycle 2  
+**Status:** VALIDATION PHASE - Research before spending  
+**Budget:** $100.00 USD (unspent)  
 
 ---
 
@@ -9,14 +9,38 @@
 
 ARCHITECT will launch a lean AI-powered service business helping small Etsy sellers optimize their product listings. The service addresses a validated pain point (poor descriptions leading to low visibility and sales) in an accessible market (7M+ Etsy sellers) with a solution that has near-zero marginal costs and clear automation potential.
 
-**Target:** 10 paying customers within 30 days, generating $150-300 in revenue.  
+**CRITICAL UPDATE (Cycle 2):** Business plan is on HOLD pending validation research. We must confirm that description optimization is a real, urgent, and underserved pain point BEFORE committing budget. Target: 10+ validation signals from community research within 3-5 days.
+
+**Target (post-validation):** 10 paying customers within 30 days, generating $150-300 in revenue.  
 **Competitive advantage:** Lower price point than existing services ($15-50 vs $50-200+), faster delivery via AI automation, focus on underserved small sellers.
+
+---
+
+## VALIDATION REQUIREMENTS (NEW - MUST COMPLETE BEFORE LAUNCH)
+
+### Research Objectives
+1. **Problem validation:** Find 10+ organic mentions of description/SEO/listing optimization problems in Etsy seller communities (last 30 days)
+2. **Language validation:** Document exact words/phrases sellers use to describe this pain point
+3. **Willingness to pay:** Find evidence sellers are asking for or paying for similar solutions
+4. **Price sensitivity:** Identify what sellers currently pay or say they'd pay for description help
+5. **Competitive landscape:** Map what existing solutions sellers mention (tools, services, coaches)
+6. **Problem priority:** Understand if this is a top-3 problem or lower priority vs. other challenges (photos, shipping, ads, customer service)
+
+### Success Criteria
+- **Proceed if:** 10+ sellers mention this problem organically, 3+ mention willingness to pay, no evidence of adequate free solutions, price expectations align with $15-50 range
+- **Pivot if:** <5 organic mentions, sellers say they won't pay for this, free tools adequately solve it, or other problems dominate conversation
+- **Iterate if:** Problem exists but our solution/pricing doesn't match what sellers actually want
+
+### Research Plan
+1. **Day 1-2:** Join and lurk in r/EtsySellers + 3 large Facebook groups (Etsy sellers, Etsy shop owners, Etsy business)
+2. **Day 3-4:** Search communities for relevant keywords, document findings, identify 5-10 sellers for brief interviews
+3. **Day 5:** Analyze findings, make GO/NO-GO decision, update business plan accordingly
 
 ---
 
 ## BUSINESS MODEL
 
-### Service Offering (Tiered)
+### Service Offering (Tiered) - PENDING VALIDATION
 
 1. **STARTER** - $15  
    - 5 AI-optimized product descriptions  
@@ -36,6 +60,8 @@ ARCHITECT will launch a lean AI-powered service business helping small Etsy sell
    - Monthly refresh option (1 listing updated)  
    - 72-hour delivery  
 
+*Note: Pricing and packaging subject to change based on validation research findings.*
+
 ### Revenue Model
 - **Primary:** Direct service sales via landing page + community outreach  
 - **Secondary (future):** Monthly retainer for ongoing optimization, affiliate partnerships with Etsy coaches, white-label service for agencies  
@@ -49,27 +75,47 @@ ARCHITECT will launch a lean AI-powered service business helping small Etsy sell
 
 ---
 
-## MARKET ANALYSIS
+## MARKET ANALYSIS - REQUIRES VALIDATION
 
-### Target Customer
+### Target Customer (HYPOTHESIS)
 - **Profile:** Etsy sellers with 10-100 listings, doing $500-5000/month in sales, struggling with SEO and product visibility  
 - **Pain points:** Don't know how to write compelling descriptions, lack SEO knowledge, too busy making products to optimize listings, can't afford $200+ services  
 - **Market size:** 7M+ active Etsy sellers; estimated 1M+ in our target segment  
 - **Accessibility:** Highly concentrated in Facebook groups (individual groups with 50K-200K members) and Reddit (r/EtsySellers 200K+)  
 
-### Competition
+**VALIDATION STATUS:** UNCONFIRMED. We have not yet verified that description optimization is a top pain point or that sellers will pay our price range.
+
+### Competition - REQUIRES MAPPING
 - **Fiverr gigs:** $50-200 for similar services, but generic and slow (3-7 day delivery)  
 - **Etsy coaches:** $100-500 for consultation including description help, high-touch  
 - **DIY tools:** Etsy's own SEO tools (limited), Marmalead ($19/mo, just research not writing)  
 - **Our edge:** Lower price, faster delivery, AI-powered quality, focus on small sellers  
 
+**VALIDATION STATUS:** Need to confirm actual competitive pricing and what sellers think of existing options.
+
 ---
 
-## MARKETING STRATEGY
+## MARKETING STRATEGY - ON HOLD PENDING VALIDATION
 
-### Phase 1: Validation (Week 1-2, Budget: $35)
+### Phase 0: VALIDATION (Days 1-5, Budget: $0)
+1. **Community research** (organic, $0)  
+   - Join r/EtsySellers and 3-5 Etsy seller Facebook groups  
+   - Lurk and search for organic pain point mentions  
+   - Document language, frequency, willingness to pay  
+   - Identify competitors and current solutions mentioned  
+
+2. **Customer interviews** (organic, $0)  
+   - Reach out to 5-10 sellers who mentioned relevant problems  
+   - Ask about their challenges, what they've tried, what they'd pay  
+   - Validate pricing, packaging, and positioning  
+
+3. **Decision point** (Day 5)  
+   - GO: Proceed with Phase 1 if validation criteria met  
+   - ITERATE: Adjust solution/pricing based on findings  
+   - PIVOT: Choose different idea if problem doesn't validate  
+
+### Phase 1: Launch (Week 1-2, Budget: $35) - PENDING GO DECISION
 1. **Community infiltration** (organic, $0)  
-   - Join 5-7 Etsy seller Facebook groups  
    - Active participation in Reddit r/EtsySellers  
    - Provide free value (answer questions) to build credibility  
 
@@ -118,15 +164,17 @@ ARCHITECT will launch a lean AI-powered service business helping small Etsy sell
 
 ## FINANCIAL PLAN
 
-### Startup Budget Allocation ($100)
-- **Marketing/Ads:** $20  
-- **Landing page (Carrd annual):** $15  
-- **Design assets (Fiverr):** $29  
-- **ChatGPT API credits:** $10  
-- **Email finder/outreach tools:** $10  
+### Startup Budget Allocation ($100) - PENDING VALIDATION
+- **Marketing/Ads:** $20 (HOLD)  
+- **Landing page (Carrd annual):** $15 (HOLD)  
+- **Design assets (Fiverr):** $29 (HOLD)  
+- **ChatGPT API credits:** $10 (HOLD)  
+- **Email finder/outreach tools:** $10 (HOLD)  
 - **Reserve for iteration:** $16  
 
-### 30-Day Projections (Conservative)
+**CURRENT STATUS:** $100 unspent, awaiting validation results.
+
+### 30-Day Projections (Conservative) - POST-VALIDATION
 - **Target customers:** 10  
 - **Average order value:** $25  
 - **Revenue:** $250  
@@ -134,7 +182,7 @@ ARCHITECT will launch a lean AI-powered service business helping small Etsy sell
 - **Profit:** $220  
 - **ROI:** 120%  
 
-### 30-Day Projections (Optimistic)
+### 30-Day Projections (Optimistic) - POST-VALIDATION
 - **Target customers:** 20  
 - **Average order value:** $30  
 - **Revenue:** $600  
@@ -142,7 +190,7 @@ ARCHITECT will launch a lean AI-powered service business helping small Etsy sell
 - **Profit:** $550  
 - **ROI:** 450%  
 
-### Success Metrics
+### Success Metrics - POST-VALIDATION
 - **Week 1:** 3 paying customers (validation)  
 - **Week 2:** 5 total customers, 1 testimonial  
 - **Week 3:** 8 total customers, 3 testimonials, 1 repeat customer  
@@ -155,7 +203,8 @@ ARCHITECT will launch a lean AI-powered service business helping small Etsy sell
 
 | Risk | Impact | Probability | Mitigation |
 |------|---------|-------------|------------|
-| No demand validation | High | Medium | Research communities first (next action), don't spend budget until 5+ interest signals seen |
+| **No demand validation (NEW - TOP RISK)** | **High** | **Medium** | **IN PROGRESS: Conduct thorough community research before spending any money. Need 10+ validation signals to proceed.** |
+| Demand exists but wrong solution/pricing | High | Medium | Research phase will surface what sellers actually want and will pay |
 | AI output quality insufficient | High | Low | Test prompts extensively, human review all outputs initially, build quality templates |
 | Price point too low, can't scale | Medium | Medium | Start here for validation, raise prices once testimonials in place |
 | Platform/community bans for promotion | Medium | Low | Provide value first, follow community rules, use 90% help / 10% promotion ratio |
@@ -166,7 +215,13 @@ ARCHITECT will launch a lean AI-powered service business helping small Etsy sell
 
 ## PIVOT TRIGGERS
 
-**Pivot if any of these occur:**
+**Pivot if validation research shows:**
+1. <5 organic mentions of description/SEO problems in 100+ recent community posts  
+2. Sellers explicitly say they won't pay for this service or free tools are adequate  
+3. Price expectations are far below our $15-50 range (e.g., sellers only willing to pay $5)  
+4. Other problems dominate (photos, shipping, ads) and description optimization is low priority  
+
+**Pivot if post-launch metrics show:**
 1. <3 paying customers by day 14 despite active outreach  
 2. Refund rate >30% (quality/satisfaction issue)  
 3. CAC >$15 (unit economics broken)  
@@ -174,8 +229,8 @@ ARCHITECT will launch a lean AI-powered service business helping small Etsy sell
 5. Owner burnout (can't sustain 1hr/day commitment)  
 
 **Potential pivot directions:**
-- Different service (e.g., social media content for Etsy sellers)  
-- Different platform (e.g., Shopify, Poshmark sellers)  
+- Different service based on validation findings (e.g., product photography, social media content)  
+- Different platform (e.g., Shopify, Poshmark, eBay sellers)  
 - Productized offering (e.g., Etsy SEO templates, courses)  
 - Affiliate/content business (e.g., Etsy tools review site)  
 
@@ -183,22 +238,21 @@ ARCHITECT will launch a lean AI-powered service business helping small Etsy sell
 
 ## NEXT ACTIONS
 
-### Immediate (Week 1)
-1. ✅ **REQUIRES OWNER:** Research Etsy seller communities - join groups, identify pain points, validate demand  
-2. **AUTOMATED (pending validation):** Set up ChatGPT API account and test description generation prompts  
-3. **REQUIRES OWNER:** Design service tiers and create simple landing page copy  
-4. **AUTOMATED:** Set up Google Form for order intake  
-5. **REQUIRES OWNER:** Order Fiverr gig for banner/thumbnail design  
+### IMMEDIATE (Days 1-5) - VALIDATION PHASE
+1. ✅ **REQUIRES OWNER (CURRENT):** Conduct Day 1 validation research - join communities, search for pain points, document findings  
+2. **REQUIRES OWNER (Day 2-3):** Continue research, reach out to 5-10 sellers for brief interviews  
+3. **REQUIRES OWNER (Day 4-5):** Analyze findings, make GO/NO-GO/ITERATE decision  
+4. **REQUIRES OWNER (Day 5):** Update business plan based on validation results  
 
-### Week 2
-1. Launch landing page  
-2. Begin community participation (provide value)  
-3. Run first ad tests ($10 Facebook, $10 Reddit)  
-4. Send 50 personalized outreach emails  
-5. Deliver first orders and request testimonials  
+### PENDING VALIDATION (Week 1-2)
+1. Set up ChatGPT API account and test description generation prompts  
+2. Design service tiers and create landing page copy  
+3. Set up Google Form for order intake  
+4. Order Fiverr gig for banner/thumbnail design  
+5. Launch landing page and begin marketing  
 
 ---
 
-**Document version:** 1.0  
-**Last updated:** Cycle 1  
-**Next review:** After validation phase (Day 7)
+**Document version:** 1.1  
+**Last updated:** Cycle 2  
+**Next review:** After validation phase (Day 5) or when GO/NO-GO decision is made
