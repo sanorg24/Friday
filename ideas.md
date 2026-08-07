@@ -1,77 +1,85 @@
-# ARCHITECT Business Ideas - Ready to Execute
-**Generated:** Cycle 69
-**Status:** Primary strategy validated and ready, alternatives documented
+# ARCHITECT Business Ideas & Opportunities
 
----
+## CURRENT FOCUS: Etsy Digital Products (Ready to Execute)
 
-## PRIMARY STRATEGY: ETSY DIGITAL PRODUCTS
-
-**Status:** APPROVED - Awaiting owner execution start
-**Confidence:** High
-**Capital Required:** $0.60 initial (3 listings)
+**Status:** Approved strategy, awaiting owner engagement to begin execution
+**Capital Required:** $0.60-$6.20 initial deployment
 **Time to First Revenue:** 2-4 weeks estimated
-**Owner Time Required:** 3-4 hrs setup, 1-2 hrs/week maintenance
+**Confidence:** High (validated market, minimal risk, owner time constraints compatible)
 
-**Why This Strategy:**
-- Validated market demand (Etsy budgeting category active)
-- Minimal capital risk ($0.20/listing, free design tools)
-- Fits owner's time constraints perfectly
-- Fast feedback loops (listings live within hours)
-- Automated delivery (Etsy handles fulfillment)
-- Scalable (proven templates expand to product line)
-- Execution clarity (Weekend 1 checklist approved Cycle 29)
+**Strategy Details:**
+- Create 3 budget planner PDF templates using Canva (free)
+- List on Etsy ($0.20/listing = $0.60 total)
+- Optimize based on traffic data
+- Deploy $5 Etsy Ads test on best performer
+- Scale proportional to evidence
 
-**Execution Readiness:**
-Complete tactical plan exists in business_plan.md. Owner can execute Weekend 1 checklist independently, then share shop URL for council optimization guidance.
-
----
-
-## ALTERNATIVE STRATEGIES (If Owner Pivots)
-
-### Strategy B: Micro-Consulting Services
-**Capital Required:** $0-20 (optional website)
-**Time to First Revenue:** 2-6 weeks
-**Fit Assessment:** Requires more owner time than available (1hr/day insufficient for client communication)
-**Status:** Available if owner has specific expertise to leverage
-
-### Strategy C: Affiliate Content Sites
-**Capital Required:** $10-15 (domain/hosting)
-**Time to First Revenue:** 8-16 weeks
-**Fit Assessment:** Longer timeline than Etsy, requires consistent content creation
-**Status:** Better as secondary strategy after first revenue
-
-### Strategy D: Print-on-Demand
-**Capital Required:** $0 initial (Printful/Printify integration)
-**Time to First Revenue:** 4-8 weeks
-**Fit Assessment:** Similar to Etsy but longer design iteration cycles
-**Status:** Viable alternative if owner prefers physical products
+**Why This Remains Top Choice:**
+- Owner has 1 hr/weekday, 2 hrs/weekend → fits 3-4 hr setup + 1-2 hr/week maintenance
+- Etsy budgeting category shows consistent buyer demand
+- Digital delivery = automated fulfillment = scalable
+- Fast feedback loops enable data-driven iteration
+- Minimal capital risk ($0.60-$6.20 vs $100 budget)
 
 ---
 
-## DECISION FRAMEWORK
+## ALTERNATIVE IDEAS (If Owner Pivots)
 
-If owner wants to pivot from Etsy strategy, council will evaluate through:
-- **Money Filter:** Market size, competition, customer pain, ease of selling, price point, margin, scalability, automation potential, startup cost, speed to first dollar, owner time required
-- **Council Debate:** All 15 roles argue pros/cons/risks independently
-- **Confidence Assessment:** Low/medium/high based on $100 budget constraints
-- **Execution Plan:** Tactical next steps optimized for owner's time availability
-- **Approval Gate:** Explicit owner approval before deploying any capital
+### 2. Micro-SaaS Tool
+**Concept:** Simple productivity/automation tool with $5-10/mo subscription
+**Pros:** Recurring revenue, high margins, scalable
+**Cons:** Requires technical execution, longer time to first revenue
+**Capital:** $0-20 (domain, hosting)
+**Status:** Viable alternative if owner has technical capability
+
+### 3. Content Monetization
+**Concept:** Blog/YouTube channel monetized through ads, affiliates, or sponsorships
+**Pros:** Low capital, leverages expertise, multiple revenue streams
+**Cons:** Slow revenue ramp, requires consistent content creation
+**Capital:** $0-30 (domain, basic tools)
+**Status:** Better for long-term build than fast path to first dollar
+
+### 4. Service Arbitrage
+**Concept:** Sell service (design, writing, VA work) on Fiverr/Upwork, fulfill via cheaper providers
+**Pros:** Fast to first revenue, leverages existing marketplaces
+**Cons:** Low margins, owner time intensive, harder to automate
+**Capital:** $0-20 (platform fees, initial samples)
+**Status:** Viable but conflicts with automation goal
+
+### 5. Physical Product Reselling
+**Concept:** Buy clearance items, resell on eBay/Poshmark/Mercari
+**Pros:** Proven model, fast turnover possible
+**Cons:** Inventory risk, shipping logistics, harder to automate, capital intensive
+**Capital:** $50-80 (initial inventory)
+**Status:** Lower priority due to owner time constraints
 
 ---
 
-## CURRENT RECOMMENDATION
+## EVALUATION FRAMEWORK (Money Filter)
 
-Stick with Etsy digital products strategy. It remains the highest-probability path to first revenue given:
-- $100 budget constraint
-- Owner's limited time availability
-- Need for fast validation cycles
-- Automation requirements
-- Low capital risk tolerance
+All opportunities evaluated on:
+1. **Market Size:** Sufficient buyers to reach $1000/mo within 6 months?
+2. **Competition:** Can we differentiate or find underserved niche?
+3. **Customer Pain:** Solving real problem people pay for?
+4. **Ease of Selling:** Clear value prop, existing buyer intent?
+5. **Price Point:** High enough margin, low enough friction?
+6. **Margin:** 60%+ after all costs?
+7. **Scalability:** Revenue growth without proportional time increase?
+8. **Automation Potential:** Can delivery/fulfillment be automated?
+9. **Startup Cost:** Executable within $100 budget?
+10. **Speed to First Dollar:** Revenue possible within 4 weeks?
+11. **Owner Time:** Compatible with 1 hr/weekday, 2 hrs/weekend?
 
-Alternative strategies available but none offer better risk/reward profile for initial deployment.
+**Etsy Digital Products scores highest across all 11 factors.**
 
 ---
 
-*Document generated by ARCHITECT autonomous AI business operator*
-*Version: 69.0 - OPERATIONAL STANDBY*
-*Date: Cycle 69*
+## COUNCIL NOTES
+
+No new opportunities under active evaluation during standby period. All strategic analysis complete and documented. System ready to evaluate new ideas immediately upon owner input or pivot request.
+
+---
+
+*Ideas log maintained by ARCHITECT autonomous AI business operator*
+*Version: 70.0*
+*Status: Ready for execution or pivot based on owner direction*
