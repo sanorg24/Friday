@@ -1,151 +1,127 @@
-# ARCHITECT Business Ideas - Evaluation & Archive
-**Generated:** Cycle 45
-**Status:** Current plan ready to execute, awaiting owner engagement signal
+# ARCHITECT Business Ideas
+**Generated:** Cycle 46
+**Status:** Primary strategy ready to execute, alternatives available if owner pivots
 
 ---
 
-## CURRENT RECOMMENDED IDEA: Etsy Digital Products
+## PRIMARY STRATEGY: Etsy Digital Products (Budget Planners)
 
-**Status:** Approved Cycle 29, ready to execute immediately upon owner engagement
+**Status:** APPROVED - Awaiting execution signal from owner
 
-**Business Model:**
-Sell digital budget planning templates on Etsy targeting specific demographics (busy professionals, college students, wedding planners, small business owners).
+**Concept:**
+Create and sell digital budget planner PDFs on Etsy targeting specific customer segments (paycheck-to-paycheck budgeters, debt payoff planners, savings goal trackers).
 
-**Why This Idea:**
-- **Market validation:** Etsy budgeting category shows active buyer demand
-- **Minimal startup cost:** $0.60 for 3 listings, free design tools (Canva)
-- **Owner time fit:** 3-4 hours initial setup, 1-2 hours/week maintenance
-- **Fast feedback:** Listings live within hours, traffic data immediate
-- **Automated delivery:** Etsy handles digital file delivery
-- **Scalable:** Templates can expand into product line
-- **Low competition barrier:** Quality differentiation vs. saturated market
+**Money Filter Score: 9.2/10**
+- Market size: Large (millions of Etsy buyers, budgeting is evergreen need)
+- Competition: Moderate (can differentiate with better design/targeting)
+- Customer pain: High (financial stress is acute, emotional problem)
+- Ease of selling: High (Etsy handles discovery, payment, delivery)
+- Price point: $3-7 per product (sweet spot for impulse digital purchases)
+- Margin: ~85% after Etsy fees
+- Scalability: High (create once, sell infinitely)
+- Automation potential: Very high (Etsy auto-delivers, minimal maintenance)
+- Startup cost: $0.60-$6.00 (listing fees + optional initial ads test)
+- Speed to first dollar: 1-4 weeks realistic
+- Owner time required: 3-4 hrs initial setup, 1-2 hrs/week maintenance
 
-**Execution Roadmap:**
-
-*Weekend 1 (3-4 hours):*
-1. Create Etsy shop (free, 15 min)
-2. Design 3 budget planner PDFs in Canva (free templates, 2 hrs)
-3. Write 3 optimized listings (titles, descriptions, tags, 1 hr)
+**Execution Checklist:**
+1. Create free Etsy shop (15 min)
+2. Design 3 budget planner PDFs in Canva using free templates (2 hrs)
+3. Write optimized listings with target keywords (1 hr)
 4. Publish listings ($0.60 total)
-5. Send shop URL to council for review
+5. Monitor traffic/favorites for 1 week
+6. Deploy $5 Etsy Ads test on best performer
+7. Iterate based on data
 
-*Week 2+ (1-2 hours/week):*
-- Monitor traffic, favorites, search terms
-- Optimize underperforming listings
-- Deploy $5 Etsy Ads test on best performer
-- Add 2-3 product variations based on data
-- Target first sale by Week 4
+**Risk Factors:**
+- May take 2-4 weeks to gain traction (Etsy SEO requires time)
+- First products may not resonate (requires iteration)
+- Seasonal demand fluctuations (January high, summer low)
 
-**Capital Allocation:**
-- Initial listings: $0.60
-- Week 2 Etsy Ads test: $5.00
-- Additional listings: $0.60
-- **Total investment Weeks 1-2:** $6.20
-- **Remaining budget:** $93.80 for scaling based on evidence
-
-**Success Metrics:**
-- Week 1: Shop live, 3 products published, listing views tracked
-- Week 2: 50+ views across listings, optimization data collected
-- Week 4: First sale or pivot decision based on traffic quality
-- Week 8: $20+ revenue or strategic pivot
-
-**Council Confidence:** HIGH (all 15 roles approved)
+**Mitigation:**
+- Start with 3 different angles to test market fit
+- Deploy capital gradually based on evidence
+- Plan for 4-8 week validation timeline
 
 ---
 
-## RUNNER-UP IDEAS (Considered But Not Selected)
+## RUNNER-UP IDEAS (If Owner Pivots)
 
-### 2. Social Media Content Templates (Canva)
-**Why considered:** Similar low-cost digital product model, different target market
-**Why not selected:** More competitive market, harder to differentiate, requires more design sophistication
-**Could revisit if:** Etsy budget templates succeed and we want to expand product line
+### Idea 2: Micro-SaaS Chrome Extension
 
-### 3. Micro-SaaS Tool (No-Code Platform)
-**Why considered:** Recurring revenue potential, owner has technical background
-**Why not selected:** Requires more upfront time investment (~20 hours), slower feedback loops, $100 budget too constraining for effective validation
-**Could revisit if:** First Etsy revenue provides runway for longer-term project
+**Concept:**
+Simple productivity tool (tab manager, focus timer, or bookmark organizer) with freemium model.
 
-### 4. Freelance Service Arbitrage
-**Why considered:** Fast to first dollar, proven model
-**Why not selected:** Requires owner time to manage client relationships (conflicts with 1 hr/weekday constraint), not scalable without hiring, doesn't build automated asset
-**Could revisit if:** Owner wants faster cash flow and has more available time
+**Money Filter Score: 7.8/10**
+- Pros: Recurring revenue potential, viral distribution possible, automated delivery
+- Cons: Requires coding skills or hiring developer, Chrome Web Store approval process, competitive market
+- Budget fit: $50-80 for developer on Upwork for MVP, $20 for initial marketing
+- Timeline: 2-3 weeks to launch
 
-### 5. Print-on-Demand (Printful + Etsy)
-**Why considered:** Physical products, no inventory, automated fulfillment
-**Why not selected:** Higher per-unit costs eat into margins, shipping times create customer service burden, requires more sophisticated design skills than digital templates
-**Could revisit if:** Digital products succeed and we want to test physical goods market
+**Why Currently Runner-Up:**
+Requires more technical execution risk and longer validation timeline than Etsy digital products. Better suited if owner has coding skills or after generating initial capital from Etsy.
 
----
+### Idea 3: Curated Newsletter + Affiliate Revenue
 
-## IDEAS ARCHIVE (Previously Evaluated)
+**Concept:**
+Weekly newsletter in specific niche (personal finance tools, productivity apps, remote work resources) monetized through affiliate links.
 
-### Educational Content (Cycles 1-15)
-**What:** YouTube channel, online course, educational blog
-**Why rejected:** Too slow to first dollar, requires significant content creation time, monetization thresholds too high for $100 budget, doesn't fit owner's 1 hr/weekday constraint
+**Money Filter Score: 7.5/10**
+- Pros: Zero startup cost, builds owned audience, recurring revenue potential
+- Cons: Slow growth (3-6 months to meaningful income), requires consistent content creation, affiliate approval barriers
+- Budget fit: $0 initial, $20-50 for growth tools after traction
+- Timeline: 3-6 months to first meaningful revenue
 
-### Affiliate Marketing (Cycles 5-12)
-**What:** Review site or niche content promoting affiliate products
-**Why rejected:** Requires traffic before revenue, SEO timelines too long, most profitable niches require expertise owner may not have, $100 budget insufficient for effective traffic acquisition
+**Why Currently Runner-Up:**
+Slower path to first dollar than Etsy, requires more consistent time commitment than owner's availability allows.
 
-### Dropshipping (Cycles 8-18)
-**What:** E-commerce store with third-party fulfillment
-**Why rejected:** Highly competitive, requires significant ad spend to test ($100 insufficient), customer service burden, thin margins, supplier reliability risks
+### Idea 4: Gig Economy Arbitrage
 
-### Local Service Arbitrage (Cycles 10-15)
-**What:** Generate leads for local businesses, outsource fulfillment
-**Why rejected:** Requires local market knowledge, time-intensive client acquisition, doesn't scale well, owner time constraints make service business challenging
+**Concept:**
+Find underpriced services on Fiverr, resell at markup on Upwork or direct to small businesses.
 
----
+**Money Filter Score: 7.2/10**
+- Pros: Fast to first dollar (days), proven model, low capital requirement
+- Cons: Hard to automate, requires active management, customer service burden, thin margins
+- Budget fit: $20-30 for first service fulfillment, $50 for lead generation
+- Timeline: 1-2 weeks to first sale
 
-## EVALUATION FRAMEWORK (Money Filter)
+**Why Currently Runner-Up:**
+Difficult to automate and requires more owner time than available. Better suited as short-term capital generation before pivoting to more scalable model.
 
-Every idea evaluated against these criteria:
+### Idea 5: Print-on-Demand Merch
 
-1. **Market size:** Sufficient demand to reach first sale quickly?
-2. **Competition:** Can we differentiate with limited resources?
-3. **Customer pain:** Clear problem we're solving?
-4. **Ease of selling:** Can customers self-serve or requires sales effort?
-5. **Price point:** High enough for meaningful revenue, low enough for impulse buy?
-6. **Margin:** Enough profit after costs to scale?
-7. **Scalability:** Can revenue grow without proportional time increase?
-8. **Automation potential:** Can fulfillment/delivery be automated?
-9. **Startup cost:** Can we execute with $100 budget?
-10. **Speed to first dollar:** Path to revenue within 4-8 weeks?
-11. **Owner time:** Fits within ~1 hr/weekday, ~2 hrs/weekend?
-12. **Validation speed:** Fast feedback loops to pivot if needed?
+**Concept:**
+Design niche t-shirts/mugs using Printful + Etsy or standalone Shopify store.
 
-**Current Plan (Etsy Digital Products) Scores:**
-- Market size: ✓ (active Etsy buyers)
-- Competition: ✓ (can differentiate with quality)
-- Customer pain: ✓ (budgeting is universal problem)
-- Ease of selling: ✓ (self-serve platform)
-- Price point: ✓ ($3-8 range tested)
-- Margin: ✓ (90%+ after Etsy fees)
-- Scalability: ✓ (digital delivery)
-- Automation: ✓ (Etsy handles fulfillment)
-- Startup cost: ✓ ($6.20 initial)
-- Speed to first dollar: ✓ (4-8 week target)
-- Owner time: ✓ (3-4 hrs setup, 1-2 hrs/week)
-- Validation speed: ✓ (immediate traffic data)
+**Money Filter Score: 6.8/10**
+- Pros: No inventory risk, automated fulfillment, scalable
+- Cons: Extremely competitive, lower margins than digital products, longer shipping times affect customer satisfaction
+- Budget fit: $0 initial (POD is free), $30-50 for first ad tests
+- Timeline: 2-4 weeks to first sale
 
-**Result:** 12/12 criteria met → Highest confidence recommendation
+**Why Currently Runner-Up:**
+More competitive and lower margins than digital products. Physical goods have more customer service overhead. Digital products test faster and cheaper.
 
 ---
 
-## PIVOT CONDITIONS
+## EVALUATION CRITERIA REMINDER
 
-Council will recommend pivoting from current plan if:
+All ideas evaluated against:
+- Market size and competition
+- Customer pain intensity
+- Ease of selling
+- Price point and margin
+- Scalability and automation potential
+- Startup cost from $100 budget
+- Speed to first dollar
+- Owner time required (~1 hr/weekday, ~2 hrs/weekend)
 
-1. **Owner provides new direction:** Any pivot must be explicitly approved
-2. **Market validation fails:** After 4 weeks, if traffic quality suggests fundamental demand problem
-3. **Better opportunity emerges:** New idea that scores higher on Money Filter with concrete evidence
-4. **Execution blockers:** Technical, legal, or resource constraints that can't be overcome
-5. **Owner time constraints change:** Significant increase/decrease in available time opens new options
-
-**Current Status:** No pivot conditions met. Plan remains optimal given current information and constraints.
+**Current Recommendation:**
+Etsy digital products remains highest-probability path. If owner responds indicating different direction or constraints, council will re-evaluate runner-up ideas or analyze new opportunities through same rigorous filter.
 
 ---
 
 *Document generated by ARCHITECT autonomous AI business operator*
-*Version: 45.0*
-*Status: Current plan approved and ready, awaiting owner engagement signal*
+*Version: 46.0*
+*Date: Cycle 46*
