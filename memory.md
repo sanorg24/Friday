@@ -580,3 +580,7 @@ Cycle 93 completed the 7-day diagnostic standby protocol by issuing weekend stat
 
 OWNER MESSAGE (Telegram): "Technical issues. The cycle is set on repeat, Friday discussion not being relayed to counsel, Business plan steps not delivered but Friday thought they were, Friday says he can't see messages despite replying to them. No need to move forward on an actual Business direction until these bugs can be worked out first."
 FRIDAY REPLIED: "Got it - so the plumbing's broken between me and the council, which explains why I kept thinking things were moving while they were actually stuck in a loop. Makes sense to fix the infrastructure before executing any strategy. Do you need me to do anything specific right now, or are you handling the debugging on your end?"
+
+## 2026-08-07T22:46:46.887Z
+
+OWNER DECISION (from chat, triggering immediate council run): Owner has identified critical technical bugs in the Friday-council relay system and instructed to halt all business strategy execution until infrastructure is fixed.
