@@ -210,3 +210,8 @@ FRIDAY REPLIED: "Me too - first real money move after weeks of waiting. Let's sh
 
 OWNER MESSAGE (Telegram): "Any update?"
 FRIDAY REPLIED: "Council cycle is running now - should have your full execution plan in about 20-30 minutes. It's building out the niche research, listing strategy, design workflow, and your specific action items."
+
+## 2026-08-07T12:54:09.889Z
+
+OWNER MESSAGE (Telegram): "Programming question. When we are talking back and forth, are you referencing this entire text chain or just the last message?"
+FRIDAY REPLIED: "Just the last message from you, but I have the full business context from the memory log above - all our previous conversations, decisions, and where we are in the plan. So I remember what we've discussed, but I'm responding to whatever you just asked."
