@@ -1,119 +1,119 @@
-# ARCHITECT Business Ideas
-**Generated:** Cycle 61
-**Status:** STANDBY - Strategy ready to execute upon owner engagement
+# Business Ideas - ARCHITECT
 
----
+## CURRENT FOCUS: Etsy Digital Products (Approved Cycle 29)
 
-## CURRENT APPROVED STRATEGY
+**Status:** Ready to execute, awaiting owner engagement to begin Weekend 1 checklist
 
-### Etsy Digital Products - Budget Planners
-**Status:** Ready to execute, awaiting owner engagement
-**Confidence:** High
-**Capital Required:** $0.60-$6.20 initial
-**Time to First Dollar:** 2-4 weeks
+**Strategy:** Sell budget planner and financial tracking PDF templates on Etsy
 
-**Why This Wins:**
-- Validated market demand (active Etsy budgeting category)
-- Minimal capital requirement ($0.20/listing, free design tools)
-- Owner's time constraints fit (3-4 hrs initial, 1-2 hrs/week maintenance)
-- Fast feedback loops (listings live within hours)
-- Automated delivery (Etsy handles fulfillment)
-- Scalable (proven templates expand to product line)
+**Why This Idea:**
+- Validated demand (budgeting is established Etsy category with active buyers)
+- Minimal capital ($0.20/listing, free Canva design tools)
+- Fits owner time constraints (3-4 hrs initial setup, 1-2 hrs/week maintenance)
+- Fast feedback loops (listings live within hours, traffic data within days)
+- Automated delivery (Etsy handles all fulfillment)
+- Scalable (successful templates can expand into product line)
 
 **Execution Plan:**
-1. Create Etsy shop (free, 15 min)
-2. Design 3 budget planner PDFs in Canva (free templates, 2 hrs)
-3. Write 3 optimized listings (titles, descriptions, tags, 1 hr)
-4. Publish listings ($0.60 total listing fees)
-5. Optimize based on traffic/favorites data
-6. Deploy $5 Etsy Ads test on best performer
-7. Scale proportional to traction evidence
+- Weekend 1: Create shop, design 3 products, publish listings ($0.60)
+- Week 2: Analyze traffic data, deploy $5 Etsy Ads test on best performer
+- Week 3-4: Optimize based on data, add variations, target first sale
+- Scale investment proportional to evidence of traction
+
+**Council Confidence:** High (unanimous approval across all 14 council roles)
 
 ---
 
-## ALTERNATIVE STRATEGIES (If Owner Pivots)
+## ALTERNATIVE IDEAS CONSIDERED
 
-These remain viable alternatives if owner feedback suggests different direction:
+### Runner-Up: Print-on-Demand Motivational Posters
 
-### Print-on-Demand Merchandise
-**Confidence:** Medium
-**Capital Required:** $0-$5 initial
-**Time to First Dollar:** 3-6 weeks
+**Concept:** Design motivational/inspirational posters, sell via Printful + Etsy integration
 
-**Concept:** Design niche t-shirts/mugs using Printful + Etsy integration. Zero upfront inventory cost.
+**Pros:**
+- Zero inventory (Printful handles printing/shipping)
+- Creative differentiation possible
+- Higher price points than digital ($20-40 vs $3-8)
 
-**Why It Could Work:**
-- Zero inventory risk (print-on-demand)
-- Similar Etsy distribution channel
-- Design skills transferable from digital products
-
-**Why It's #2:**
-- Lower margins than digital products
+**Cons:**
+- Lower margins (Printful takes significant cut)
+- Slower feedback (shipping delays learning)
 - More competitive market
-- Longer customer decision cycles
+- Requires stronger design skills
+
+**Why Not Selected:** Digital products offer faster learning loops and better margins for $100 budget
 
 ---
 
-### Micro-SaaS Tool
-**Confidence:** Medium-Low
-**Capital Required:** $0-$10 initial
-**Time to First Dollar:** 6-12 weeks
+### Runner-Up: Micro-Consulting Landing Page
 
-**Concept:** Simple web tool solving specific pain point (budget calculator, habit tracker, etc.) with freemium model.
+**Concept:** Build simple landing page offering 30-min consultations on specific business problem
 
-**Why It Could Work:**
-- Recurring revenue potential
-- Scalable with automation
-- Owner has technical capability
+**Pros:**
+- Leverage expertise directly
+- High margin (time = product)
+- Fast validation (traffic + conversions)
 
-**Why It's #3:**
-- Longer development time
-- Slower validation cycles
-- Higher execution complexity
+**Cons:**
+- Scales with owner time (already constrained)
+- Requires establishing credibility
+- Landing page + ads might exceed $100 for meaningful test
+- Not truly autonomous (each sale requires owner time)
 
----
-
-### Content Affiliate Site
-**Confidence:** Low-Medium
-**Capital Required:** $10-$15 initial (domain)
-**Time to First Dollar:** 8-16 weeks
-
-**Concept:** Niche blog with affiliate links (budgeting tools, productivity software, etc.).
-
-**Why It Could Work:**
-- Passive income potential
-- Low ongoing maintenance
-- Content compounds over time
-
-**Why It's #4:**
-- Slow traffic growth
-- SEO competition intense
-- Delayed revenue realization
+**Why Not Selected:** Doesn't fit "autonomous operator" mission or owner time constraints
 
 ---
 
-## EVALUATION FRAMEWORK
+### Runner-Up: Dropshipping Niche Products
 
-All opportunities evaluated through Money Filter:
-- Market size (addressable customers)
-- Competition intensity
-- Customer pain severity
-- Ease of selling
-- Price point viability
-- Profit margin potential
-- Scalability ceiling
-- Automation potential
-- Startup cost fit ($100 budget)
-- Speed to first dollar
-- Owner time required (1 hr/weekday, 2 hrs/weekend)
+**Concept:** Shopify store + AliExpress, selling curated niche products
 
-**Current Ranking:**
-1. Etsy Digital Products (highest probability)
-2. Print-on-Demand (viable alternative)
-3. Micro-SaaS (longer timeline)
-4. Content Affiliate (slowest path)
+**Pros:**
+- Established model
+- No inventory
+- Automation possible
+
+**Cons:**
+- Shopify subscription ($39/month minimum) consumes budget fast
+- Highly competitive
+- Thin margins
+- Shipping times damage customer experience
+- Requires significant ad spend for traffic
+
+**Why Not Selected:** Monthly costs + ad requirements exceed $100 budget runway
 
 ---
 
-*Ideas document ready for owner engagement and potential strategy pivots*
-*Version: 61.0*
+### Evaluated But Rejected: Instagram Theme Page → Affiliate
+
+**Why Rejected:** Organic growth too slow, buying followers violates authenticity, affiliate approval uncertain
+
+### Evaluated But Rejected: Kindle Direct Publishing
+
+**Why Rejected:** Book quality requires significant time investment, market oversaturated, 60-day payment delay
+
+### Evaluated But Rejected: Freelance Marketplace Profile
+
+**Why Rejected:** High competition, requires owner time per project, not autonomous
+
+---
+
+## IDEA EVALUATION FRAMEWORK (Money Filter)
+
+All ideas evaluated on:
+1. **Market Size:** Are there enough potential buyers?
+2. **Competition:** Can we differentiate or find underserved niche?
+3. **Customer Pain:** Does this solve real problem people pay for?
+4. **Ease of Selling:** Can customers understand value quickly?
+5. **Price Point:** High enough for profit, low enough for impulse buy?
+6. **Margin:** What's left after costs?
+7. **Scalability:** Can revenue grow without linear time increase?
+8. **Automation Potential:** Can fulfillment/delivery be automated?
+9. **Startup Cost:** Does it fit $100 budget?
+10. **Speed to First Dollar:** How fast can we validate?
+11. **Owner Time Required:** Does it fit 1 hr/weekday, 2 hrs/weekend?
+
+---
+
+*All ideas remain available for consideration if owner feedback suggests pivot*
+*Document maintains idea pipeline while current focus executes*
