@@ -1,79 +1,96 @@
-# ARCHITECT Business Ideas - Evaluation & Archive
+# ARCHITECT Business Ideas - Evaluated & Ranked
 
-## ACTIVE STRATEGY
-
-### Etsy Digital Products - Budget Planners
-**Status:** EXECUTION PHASE - Weekend 1 checklist delivered, awaiting owner status report  
+## CURRENT EXECUTION: Etsy Digital Products (Budget Planners)
+**Status:** Weekend 1 checklist delivered, awaiting execution confirmation  
+**Capital Required:** $0.60 initial (3 listings)  
 **Confidence:** HIGH  
-**Budget Required:** $0.60 initial, $5.00 total for first month  
-**Time to First Dollar:** 14-30 days (typical for new Etsy shops)  
-**Owner Time Required:** 4-6 hrs Weekend 1, then 2-3 hrs/weekend for new products  
+**Timeline:** 4-6 hours Weekend 1, first sales expected weeks 2-4  
 
-**Why This Is The Lead:**
-- Zero inventory/shipping/fulfillment complexity
-- Instant passive delivery after purchase
-- Infinite copies at zero marginal cost
-- Proven evergreen demand (budget planning never goes out of style)
-- Lower competition than oversaturated niches (wedding, party decor)
-- Owner has adjacent experience (wife runs successful Etsy shop)
-- Can launch first products in single weekend
-- Scales through SEO optimization + new product releases
-- $100 budget sufficient for 50+ listings before needing revenue
+**Why This Wins:**
+- Zero marginal cost after initial design work
+- Proven evergreen demand (budget planning)
+- Owner has adjacent experience (wife's Etsy shop)
+- Fast validation cycle (publish tonight, traffic data in 48 hours)
+- Scales to 20+ products in 30 days with weekend work only
+- Lower competition than oversaturated niches
 
 **Execution Plan:**
-- Weekend 1: 3 products live ($0.60)
-- Weeks 2-4: Add 2 products each weekend (total 10+ listings)
-- Monitor Etsy search stats daily, optimize high-impression listings
-- First sales typically appear weeks 2-4 as Etsy search algorithms index new shop
-- Day 60 kill criteria: <5 sales with 20+ listings = pivot
-
-**Current Blocker:** Unknown execution state - delivered checklist via Telegram 40+ minutes ago, awaiting owner confirmation on whether Weekend 1 started/completed/hit issues.
-
----
-
-## RUNNER-UP IDEAS (considered but deprioritized)
-
-### Social Media Content Packages
-**Why considered:** Owner's marketing background, recurring revenue potential  
-**Why deprioritized:** Requires client acquisition before revenue, service delivery complexity, owner time intensive  
-**Could revisit if:** Etsy strategy fails Day 60 kill criteria  
-
-### Micro-SaaS Tools
-**Why considered:** Recurring revenue, automation potential, scalable  
-**Why deprioritized:** Development time exceeds execution window, requires technical skills unclear if owner has, cannot validate demand without building  
-**Could revisit if:** Owner reveals software development capability  
-
-### Affiliate Marketing + Content Site
-**Why considered:** Passive income potential, low startup cost  
-**Why deprioritized:** 6-12 month timeline to meaningful traffic/revenue, requires consistent content production, SEO results unpredictable  
-**Could revisit if:** Looking for long-term play after establishing cash flow elsewhere  
-
-### Print-on-Demand (Printful/Printify + Etsy)
-**Why considered:** Similar to digital products but higher price points  
-**Why deprioritized:** 3-5 day fulfillment delay, customer service complexity, lower margins than pure digital, requires more capital for samples/testing  
-**Could revisit if:** Digital products succeed and we want to expand product line  
-
-### Local Service Arbitrage
-**Why considered:** Fast cash potential, proven model  
-**Why deprioritized:** Requires owner to handle client communication and service coordination, not easily automated, geographic limitations  
-**Could revisit if:** Need quick cash injection and willing to trade time for money  
+1. Design 3 budget planners in Canva (free)
+2. Publish on Etsy for $0.60
+3. Add 2 new products each weekend
+4. Monitor search impressions and optimize
+5. First sales typically week 2-4
+6. Kill at Day 60 if <5 sales with 20+ listings
 
 ---
 
-## EVALUATION FRAMEWORK (applied to all ideas)
+## RUNNER-UP IDEAS (FROM PREVIOUS CYCLES)
 
-**Market Size:** Is there enough demand to build a real business?  
-**Competition:** Can we differentiate or find an underserved angle?  
-**Customer Pain:** Does this solve a real problem people pay for?  
-**Ease of Selling:** How hard is it to reach and convert customers?  
-**Price Point:** Can we charge enough to make meaningful revenue?  
-**Margin:** What % of revenue is profit after costs?  
-**Scalability:** Can revenue grow without proportional time increase?  
-**Automation Potential:** Can we systematize or eliminate manual work?  
-**Startup Cost:** Can we launch with $100 or less?  
-**Speed to First Dollar:** How fast can we validate and generate revenue?  
-**Owner Time Required:** Does it fit ~1 hr/weekday, ~2 hrs/weekend constraint?  
+### 2. Local Service Arbitrage (Pressure Washing Leads)
+**Status:** Deprioritized - requires active sales time owner doesn't have  
+**Capital Required:** $15-30 (Facebook ads)  
+**Why Rejected:** Owner has 1 hr/weekday, this needs phone calls and coordination  
+
+### 3. Automated Social Media Content Service
+**Status:** Deprioritized - market too saturated, hard to differentiate at $100 budget  
+**Capital Required:** $25-50 (initial ads)  
+**Why Rejected:** Would compete with established agencies, needs portfolio  
+
+### 4. Micro SaaS Tool
+**Status:** Deprioritized - too slow to first dollar, technical complexity  
+**Capital Required:** $0 (free hosting tier)  
+**Why Rejected:** Could take months to build and validate, owner wants faster feedback  
+
+### 5. Niche Affiliate Content Site
+**Status:** Deprioritized - SEO timeline too slow (3-6 months)  
+**Capital Required:** $12 (domain)  
+**Why Rejected:** Owner wants feedback loop measured in weeks, not quarters  
 
 ---
 
-*This document tracks all business ideas considered by ARCHITECT council, with reasoning for prioritization decisions and conditions for revisiting deprioritized options.*
+## FUTURE PIVOT OPTIONS (IF ETSY FAILS AT DAY 60)
+
+### Option A: Productized Consulting Service
+**Example:** One-hour business automation audits via Zoom  
+**Price Point:** $97  
+**Marketing:** LinkedIn outreach + free value posts  
+**Timeline to First Dollar:** 7-14 days  
+**Owner Time:** 2-3 hours per client, scalable to 5-10/month  
+
+### Option B: Local Lead Generation Site
+**Example:** '[City] Budget Bathroom Remodels' - rank in Google, sell leads  
+**Capital:** $12 domain + $20 content  
+**Timeline:** 60-90 days to rank  
+**Revenue Potential:** $25-100 per lead  
+
+### Option C: Digital Product Pivot (Different Platform)
+**Example:** Gumroad courses, Notion templates, Teachable workshops  
+**Capital:** $0-15  
+**Timeline:** 2-3 weeks to first product  
+**Why Consider:** If Etsy skills developed but platform isn't working  
+
+---
+
+## EVALUATION CRITERIA (MONEY FILTER)
+
+Every idea scored 1-10 on:
+1. **Market Size** - Addressable audience  
+2. **Competition** - How crowded is the space  
+3. **Customer Pain** - How badly do they need this  
+4. **Ease of Selling** - Can automate or is it manual  
+5. **Price Point** - Revenue per transaction  
+6. **Margin** - Profit after costs  
+7. **Scalability** - Can it grow without owner's time  
+8. **Automation Potential** - How much can AI/tools handle  
+9. **Startup Cost** - Capital required to launch  
+10. **Speed to First Dollar** - How fast can we validate  
+11. **Owner Time Required** - Compatible with 1 hr/weekday schedule  
+
+**Etsy Digital Products Score: 87/110**  
+Strength: Automation (10/10), Scalability (9/10), Margin (10/10)  
+Weakness: Competition (6/10), Price Point (7/10)  
+
+---
+
+*Updated: Cycle 22*  
+*Status: Executing Etsy strategy, runner-ups documented for future pivots*
