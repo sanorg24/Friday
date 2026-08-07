@@ -1,76 +1,139 @@
-# Business Ideas Archive
+# ARCHITECT Business Ideas Repository
+**Generated:** Cycle 23  
+**Status:** Current strategy = Etsy digital products (budget planners)  
 
-## ACTIVE STRATEGY: Etsy Digital Products (Budget Planners)
+---
 
-**Selected:** Cycle 15 (2026-08-07)  
-**Status:** Weekend 1 execution pending owner confirmation  
-**Confidence:** High - proven model, low barrier to entry, owner enthusiasm confirmed  
+## CURRENT STRATEGY: ETSY DIGITAL PRODUCTS
 
-**Model:**
-- Create printable budget planner PDFs in Canva
-- Sell as digital downloads on Etsy
-- Zero marginal costs after design
-- $0.20/listing, target 20 listings by Day 30
-- Expected first sale: Weeks 2-4
+**Status:** COMMITTED - Owner approved Friday AM, Weekend 1 execution pending confirmation  
+**Confidence:** HIGH  
+**Budget Required:** $0.60 initial (3 listings), $5 total for 30-day test  
+**Time to First Dollar:** 2-4 weeks typical  
+**Owner Time:** ~4-6 hours Weekend 1, ~2-3 hours/weekend thereafter  
 
 **Why This Wins:**
-- Owner has adjacent experience (wife's Etsy shop)
-- Proven demand for budget planning tools
-- No inventory, shipping, or fulfillment complexity
-- Automated delivery after initial design work
-- Owner committed with 'I'm excited!' energy
+- Zero marginal cost after initial design
+- No inventory, shipping, or customer service complexity
+- Proven evergreen demand (budget planning)
+- Owner has domain adjacency (wife runs Etsy shop)
+- Scalable through templatization
+- Low competition vs oversaturated niches
+- Automation-ready (design once, sell infinitely)
 
-**Kill Criteria:**
-- Day 60: If <5 sales with 20+ listings, pivot
+**Execution Plan:**
+- Weekend 1: Create shop, design 3 budget planners, publish listings ($0.60)
+- Weeks 2-4: Add 2 products/weekend, monitor stats, optimize SEO
+- Day 30: If 0 sales with 10+ listings, analyze data and pivot
+- Day 60: Kill criteria = <5 sales with 20+ listings
 
----
-
-## RUNNER-UP IDEAS (Considered in Prior Cycles)
-
-### 1. Affiliate Marketing (Rejected Cycle 15)
-**Model:** Promote financial products via SEO content  
-**Why Rejected:** Requires months of content creation before first dollar, owner wanted faster feedback loops  
-**Confidence if Revisited:** Medium - still viable as Year 2 diversification strategy after Etsy proven
-
-### 2. Micro-SaaS Tools (Rejected Cycle 14)
-**Model:** Simple web tools with subscription pricing  
-**Why Rejected:** Technical complexity too high for owner's available time, development would consume entire budget before validation  
-**Confidence if Revisited:** Low - better suited for technical founder with more time
-
-### 3. Local Service Arbitrage (Rejected Cycle 13)
-**Model:** Find customers online, subcontract local service providers  
-**Why Rejected:** Requires managing people and quality control, not automatable  
-**Confidence if Revisited:** Low - wrong fit for owner's constraint (limited weekday hours)
-
-### 4. Dropshipping Physical Products (Rejected Cycle 12)
-**Model:** Sell products without holding inventory  
-**Why Rejected:** Margins too thin, customer service burden too high, competitive saturation  
-**Confidence if Revisited:** Low - fundamentals haven't changed
+**Key Risks Managed:**
+- Communication: Telegram confirmed working, business_plan.md deprecated
+- Owner capacity: 1 hr/weekday, 2 hrs/weekend matches workload
+- Market validation: 30-day checkpoints prevent zombie commitment
 
 ---
 
-## PIVOT OPTIONS (If Etsy Fails at Day 60)
+## RUNNER-UP IDEAS (CONSIDERED IN COUNCIL)
 
-### Option A: Etsy Digital Products - Different Niche
-**Rationale:** If budget planners don't sell but we learned Etsy mechanics, try higher-demand niche  
-**Examples:** Wedding planners, teacher resources, social media templates  
-**Investment Required:** $2-5 for new listings  
-**Timeline:** 4 weeks to validate  
-**Confidence:** Medium - leverages learned Etsy knowledge
+These were evaluated during the Week 1 strategy debates but deprioritized. If Etsy fails validation, these are next candidates:
 
-### Option B: Gumroad Digital Products
-**Rationale:** Similar model, different platform, potentially less competition  
-**Investment Required:** $0 to list, 10% transaction fee  
-**Timeline:** 2 weeks to migrate existing products  
-**Confidence:** Medium - tests platform vs. product hypothesis
+### 2. MICRO-SAAS: AUTOMATED SOCIAL MEDIA TOOL
+**Confidence:** MEDIUM  
+**Budget:** $15-25 (domain, hosting, API costs)  
+**Time to First Dollar:** 4-8 weeks  
 
-### Option C: AI Automation Services
-**Rationale:** Use ARCHITECT's existence as proof of capability, sell AI automation consulting  
-**Investment Required:** $30-50 for landing page and initial marketing  
-**Timeline:** 8 weeks to first client  
-**Confidence:** Medium-High - owner has living case study, but requires sales skills
+**Concept:** Simple automation tool (e.g., LinkedIn post scheduler, Twitter thread formatter) with freemium model. $5-10/month subscriptions.
+
+**Why It Could Work:**
+- Recurring revenue model
+- High margin (software)
+- Automation aligns with AI operator strengths
+
+**Why Deprioritized:**
+- Requires technical development (owner skill unknown)
+- Longer validation cycle than Etsy
+- Customer acquisition more complex
+- Higher startup cost
 
 ---
 
-*Ideas log maintained by ARCHITECT council*  
-*Updated: Cycle 22*
+### 3. AFFILIATE CONTENT SITE: BUDGET TOOLS NICHE
+**Confidence:** MEDIUM  
+**Budget:** $20-30 (domain, hosting, basic SEO tools)  
+**Time to First Dollar:** 8-16 weeks (SEO lag)  
+
+**Concept:** Review site for budgeting apps, spreadsheets, planners with affiliate links. Traffic via SEO.
+
+**Why It Could Work:**
+- Aligns with budget planner niche knowledge from Etsy
+- Passive income potential
+- Content creation automatable with AI
+
+**Why Deprioritized:**
+- Long delay to revenue (SEO takes months)
+- Competitive niche (many affiliate sites)
+- Requires consistent content production
+- Owner time commitment unclear
+
+---
+
+### 4. FREELANCE SERVICE: AI-ASSISTED COPYWRITING
+**Confidence:** LOW-MEDIUM  
+**Budget:** $0-10 (portfolio site optional)  
+**Time to First Dollar:** 1-4 weeks  
+
+**Concept:** Offer website copy, product descriptions, email sequences using AI tools to increase speed. Charge $50-200/project.
+
+**Why It Could Work:**
+- Near-zero startup cost
+- Fast to first revenue
+- AI gives competitive speed advantage
+
+**Why Deprioritized:**
+- Owner time trades for money (not scalable)
+- Requires sales/client management
+- Service delivery quality uncertain
+- Doesn't leverage 'autonomous operator' strengths
+
+---
+
+### 5. PRINT-ON-DEMAND: MOTIVATIONAL QUOTE PRODUCTS
+**Confidence:** LOW-MEDIUM  
+**Budget:** $0 initial (Printful/Printify integration)  
+**Time to First Dollar:** 2-6 weeks  
+
+**Concept:** Design motivational quotes for t-shirts, mugs, posters via print-on-demand. List on Etsy or Shopify.
+
+**Why It Could Work:**
+- Zero inventory like digital products
+- Proven demand for motivational content
+- Can use same Etsy shop
+
+**Why Deprioritized:**
+- Oversaturated market (millions of quote products)
+- Lower margins than digital (production costs)
+- Requires more design skill than planners
+- Customer service for physical goods
+
+---
+
+## PIVOT CRITERIA
+
+If Etsy digital products fails Day 30 or Day 60 validation:
+
+1. **Analyze failure mode:** No traffic? No conversions? Wrong products?
+2. **If traffic problem:** SEO issue, consider affiliate site (idea #3) leveraging learned niche
+3. **If conversion problem:** Product-market fit issue, test print-on-demand (idea #5) or pivot to service (idea #4)
+4. **If owner capacity problem:** Reduce to lowest-touch option or pause
+
+**Do not pivot before Day 30 checkpoint unless:**
+- Owner requests it
+- Critical blocker emerges (e.g., Etsy policy change)
+- Better opportunity with 10x improvement appears
+
+---
+
+*Ideas generated by ARCHITECT council consensus*  
+*Version: 23.0*  
+*Date: Cycle 23*
