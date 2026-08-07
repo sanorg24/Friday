@@ -1,136 +1,78 @@
-# ARCHITECT Business Ideas - OPERATIONAL STANDBY
+# Business Ideas - Evaluated & Prioritized
 
-**Generated:** Cycle 76
-**Status:** Strategy ready for execution upon owner engagement
+## CURRENT PRIORITY: Etsy Digital Products (Approved Cycle 29)
 
----
+**Strategy:** Budget planner PDFs and financial templates
+**Status:** Ready to execute, awaiting owner engagement
+**Capital Required:** $0.60 initial (3 listings), $6.20 total Week 1-2
+**Time Required:** 3-4 hrs setup, 1-2 hrs/week maintenance
+**Revenue Potential:** $3-7 per sale, target first sale Week 4
 
-## CURRENT RECOMMENDED STRATEGY
+**Why This Wins:**
+- Fits owner's time constraints perfectly
+- Minimal capital risk ($0.60 to test)
+- Fast feedback loops (listings live in hours)
+- Automated fulfillment (Etsy handles delivery)
+- Validated demand (budgeting category has active buyers)
+- Scalable (templates expand to product line)
 
-### Etsy Digital Products (Budget Planners)
-
-**Status:** APPROVED - Awaiting owner execution
-**Capital Required:** $0.60-$6.20 initial deployment
-**Time to First Dollar:** 1-4 weeks
-**Owner Time Required:** 3-4 hrs setup, 1-2 hrs/week maintenance
-
-**Why This Remains Top Choice:**
-
-1. **Validated Market Demand**
-   - Etsy budgeting category shows active buyer behavior
-   - Existing sellers prove market exists
-   - Price points ($3-15) tested and validated
-
-2. **Perfect Budget Fit**
-   - $0.20/listing fee (3 listings = $0.60)
-   - Free design tools (Canva)
-   - Minimal marketing test ($5 Etsy Ads)
-   - Total Week 1-2 spend: $6.20
-
-3. **Owner Time Constraints Match**
-   - Weekend 1: 3-4 hours total setup
-   - Ongoing: 1-2 hours/week for optimization
-   - Fits stated availability perfectly
-
-4. **Fast Feedback Loops**
-   - Listings live within hours of creation
-   - Traffic/favorites data available immediately
-   - Can iterate based on real market signals
-
-5. **Automation Potential**
-   - Etsy handles payment processing
-   - Automated digital delivery
-   - No inventory, shipping, or fulfillment
-
-6. **Scalability Path**
-   - Proven templates expand to product line
-   - Additional categories (meal planners, habit trackers)
-   - Build brand and customer base
-
-**Execution Checklist (Ready to Deploy):**
-
-- [ ] Create Etsy shop (free, 15 min)
-- [ ] Design 3 budget planner PDFs in Canva (2 hrs)
-- [ ] Write 3 optimized listings (1 hr)
-- [ ] Publish listings ($0.60)
-- [ ] Send shop URL to council for review
-
-**Week 2+ Roadmap:**
-
-- Analyze traffic/favorites data
-- Deploy $5 Etsy Ads test on best performer
-- Add 2-3 product variations
-- Optimize listings based on search data
-- Target first sale by Week 4
+**Execution Ready:**
+All planning complete through Cycles 1-29. Weekend 1 checklist defined. Week 2+ roadmap conditional on traction. Council awaits owner signal to begin.
 
 ---
 
-## ALTERNATIVE STRATEGIES (If Owner Pivots)
+## ALTERNATIVE IDEAS (Ready If Owner Pivots)
 
-### Micro SaaS Tools
+### Social Media Content Templates
+**Concept:** Canva templates for Instagram, LinkedIn, TikTok
+**Platform:** Etsy or Gumroad
+**Investment:** $0-5
+**Pros:** High demand, easy creation, broad market
+**Cons:** Saturated competition, requires design skill
+**Status:** Runner-up if owner prefers this niche
 
-**Status:** RESEARCHED - Not recommended for $100 budget
-**Why Deprioritized:** Requires technical development time owner doesn't have
+### Spreadsheet Tools & Calculators
+**Concept:** Google Sheets templates (budget trackers, business calculators)
+**Platform:** Etsy or direct via Gumroad
+**Investment:** $0-5
+**Pros:** Evergreen demand, automated delivery, template reuse
+**Cons:** Requires spreadsheet expertise, formula complexity
+**Status:** Available if owner has spreadsheet background
 
-### Freelance Services
+### Notion Templates
+**Concept:** Productivity templates for Notion users
+**Platform:** Gumroad or Etsy
+**Investment:** $0-10
+**Pros:** Growing Notion user base, template marketplace emerging
+**Cons:** Notion-specific knowledge required, smaller audience than general PDFs
+**Status:** Viable if owner is Notion power user
 
-**Status:** RESEARCHED - Not recommended
-**Why Deprioritized:** Trades owner time for money, doesn't build scalable asset
-
-### Content Monetization
-
-**Status:** RESEARCHED - Not recommended for fast revenue
-**Why Deprioritized:** Long runway to monetization, uncertain outcomes
-
-### Physical Product Arbitrage
-
-**Status:** RESEARCHED - Not recommended
-**Why Deprioritized:** Requires inventory management, shipping logistics owner can't handle with time constraints
+### Print-on-Demand Designs
+**Concept:** T-shirt/mug designs via Printful + Etsy
+**Investment:** $0 upfront (POD handles production)
+**Pros:** Zero inventory, automated fulfillment
+**Cons:** Lower margins, highly competitive, requires design skills
+**Status:** Deprioritized due to competition and margins
 
 ---
 
 ## EVALUATION FRAMEWORK
 
-All opportunities evaluated through Money Filter:
+All ideas evaluated through Money Filter:
+- Market size
+- Competition level
+- Customer pain intensity
+- Ease of selling
+- Price point & margin
+- Scalability
+- Automation potential
+- Startup cost
+- Speed to first dollar
+- Owner time required (critical constraint: 1 hr/weekday, 2 hrs/weekend)
 
-1. **Market Size** - Is there demonstrated demand?
-2. **Competition** - Can we differentiate or find gaps?
-3. **Customer Pain** - Does this solve real problem?
-4. **Ease of Selling** - Can customers buy without friction?
-5. **Price Point** - Will people pay enough to profit?
-6. **Margin** - What's left after costs?
-7. **Scalability** - Can revenue grow without proportional time increase?
-8. **Automation Potential** - Can operations run without constant attention?
-9. **Startup Cost** - Does it fit $100 budget?
-10. **Speed to First Dollar** - How fast can we validate?
-11. **Owner Time Required** - Does it fit 1 hr/weekday, 2 hrs/weekend?
-
-**Etsy Digital Products scores highest across all criteria.**
+Etsy digital products (budget planners) scored highest across all dimensions given $100 budget and time constraints.
 
 ---
 
-## LESSONS FROM STRATEGY DEVELOPMENT
-
-**What Worked:**
-- Systematic evaluation of multiple opportunities
-- Honest assessment of owner constraints
-- Prioritizing speed to first dollar over theoretical scale
-- Choosing proven market over unvalidated ideas
-
-**What We Learned:**
-- $100 budget eliminates most bootstrapping strategies
-- Owner time constraints are the binding constraint
-- Digital products offer best risk/reward at this scale
-- Fast feedback loops enable intelligent iteration
-
-**If Starting Over:**
-- Would still choose Etsy digital products
-- Might start with single product to test faster
-- Would emphasize SEO optimization earlier
-- Would plan product expansion path from day one
-
----
-
-*Document generated by ARCHITECT autonomous AI business operator*
-*Version: 76.0 - OPERATIONAL STANDBY*
-*Status: Strategy ready for execution upon owner engagement*
+*Ideas evaluated by ARCHITECT council through Cycle 77*
+*Status: Primary strategy approved and ready, alternatives documented for pivots*
