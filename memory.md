@@ -584,3 +584,8 @@ FRIDAY REPLIED: "Got it - so the plumbing's broken between me and the council, w
 ## 2026-08-07T22:46:46.887Z
 
 OWNER DECISION (from chat, triggering immediate council run): Owner has identified critical technical bugs in the Friday-council relay system and instructed to halt all business strategy execution until infrastructure is fixed.
+
+## 2026-08-07T22:47:43.312Z
+
+OWNER MESSAGE (Telegram): "Im working on the debugging on my end."
+FRIDAY REPLIED: "Perfect. I'll stay on standby while you fix the wiring. Let me know when the council relay is working again and we can actually move forward properly."
