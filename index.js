@@ -1,7 +1,7 @@
 require('dotenv').config();
 const cron = require('node-cron');
-const { runCouncilCycle } = require('./lib/claude');
-const { writeFile, fetchFile, appendToLog } = require('./lib/github');
+const { runCouncilCycle, generateChatReply } = require('./lib/claude');
+const { writeFile, fetchFile, appendToLog, getTelegramOffset, setTelegramOffset } = require('./lib/github');
 const { sendMessage, getNewMessages } = require('./lib/telegram');
 
 async function runCycle() {
@@ -42,15 +42,42 @@ async function runCycle() {
 
 async function checkMessages() {
   try {
-    const messages = await getNewMessages();
+    const offset = await getTelegramOffset();
+    const { messages, highestId } = await getNewMessages(offset);
+
+    if (messages.length === 0) return;
+
+    const memoryLog = await fetchFile('memory.md');
+    const recentMemory = memoryLog ? memoryLog.slice(-8000) : null;
+
     for (const text of messages) {
       console.log(`[${new Date().toISOString()}] Received message: ${text}`);
-      await sendMessage(`Got it, thanks: "${text}"\n\nI've logged this and will factor it into my next planning cycle.`);
+      const result = await generateChatReply(text, recentMemory);
+      await sendMessage(result.reply);
       await appendToLog(
         'memory.md',
-        `OWNER MESSAGE received via Telegram: "${text}"\n\nTreat this as a direct instruction or piece of context from the owner. Take it into account in the next cycle, and explain in your reasoning how you addressed it.`
+        `OWNER MESSAGE (Telegram): "${text}"\nFRIDAY REPLIED: "${result.reply}"`
       );
+
+      if (result.is_decision) {
+        console.log(`[${new Date().toISOString()}] Decision detected: ${result.decision_summary}`);
+        await appendToLog(
+          'memory.md',
+          `OWNER DECISION (from chat, triggering immediate council run): ${result.decision_summary}`
+        );
+        await sendMessage(`Got it — running that through the council now, give me a minute.`);
+        // Fire the real cycle immediately rather than waiting for the
+        // 6-hour schedule. Not awaited-and-blocking the message loop
+        // longer than necessary, but we do want to know if it fails.
+        runCycle().catch((err) =>
+          console.error(`[${new Date().toISOString()}] On-demand cycle failed:`, err)
+        );
+      }
     }
+
+    // Persist the offset AFTER successfully replying to everything, so a
+    // crash mid-reply doesn't silently mark a message as handled.
+    await setTelegramOffset(highestId);
   } catch (err) {
     console.error(`[${new Date().toISOString()}] Message check failed:`, err);
   }
