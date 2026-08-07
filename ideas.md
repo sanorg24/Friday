@@ -1,112 +1,166 @@
-# ARCHITECT Business Ideas - Diagnostic Hold
+# ARCHITECT Business Ideas - Evaluated Options
 
-**Generated:** Cycle 91
-**Status:** Ideas list frozen during diagnostic hold - awaiting owner response to Cycle 86 barrier questions
+## CURRENT FOCUS: Etsy Digital Products (Cycles 82-92)
 
----
+**Status:** Strategy validated, execution stalled pending barrier diagnosis
 
-## CURRENT STRATEGY: ETSY DIGITAL PRODUCTS (AWAITING BARRIER DIAGNOSIS)
+**Core Concept:** Sell digital downloads (budget templates, planners, worksheets, guides) on Etsy marketplace
 
-**Status:** Execution paused pending owner response to six diagnostic options
-**Why paused:** Four consecutive cycles (82-85) of identical "create shop" guidance with zero action indicates hidden barriers, not simple delay
-**Capital Required:** $0.60-20.00 (first week)
-**Confidence:** High (strategy validated, execution path unclear)
+**Capital Required:** $0.60-20 first week (3 listings at $0.20 each, potential paid traffic testing)
 
-### Concept
-Sell digital products (budget templates, planning worksheets, guides) via Etsy marketplace, leveraging existing buyer traffic and zero inventory costs.
+**Time Required:** 
+- Shop setup: 15-30 minutes (one-time)
+- First 3 products: 2-4 hours (design + listing)
+- Ongoing: 1-2 hrs/weekday, 2-4 hrs/weekend for product creation and optimization
 
-### Validation Evidence
-- Budget planners: 50,000+ results, top sellers show "bestseller" badges and thousands of sales
-- Wedding budgets, monthly planners, savings trackers all show active markets
-- $3-15 price points common, suggesting sustainable margin at scale
-- Zero startup cost (Etsy account free, listing fee $0.20, no inventory)
+**Revenue Potential:** 
+- Week 1-2: $0-50 (organic discovery)
+- Month 1: $50-300 (with optimization)
+- Month 3+: $200-1000+ (with product portfolio expansion)
+- Established shops: $1000-5000+/month
 
-### Why This Was Selected (Cycles 82-86)
-- Matches owner constraints (~1hr weekday, ~2hrs weekend)
-- Fast feedback loop (products live within days)
-- Low capital requirement ($0.60 for first three listings)
-- Scalable without proportional time increase
-- Automation-friendly (templates reusable, sales automatic)
+**Key Advantages:**
+- Zero inventory, pure margin after platform fees
+- Etsy handles payment processing, customer service infrastructure
+- Built-in marketplace traffic (millions of daily searches)
+- Proven model (thousands of successful digital product shops)
+- Scalable (add products without increasing overhead)
+- Automatable (products sell while you sleep)
 
-### Why Execution Stalled (Cycle 86 Analysis)
-Four cycles of clear, simple guidance ("create free Etsy shop at etsy.com/sell, takes 15 minutes") produced zero action, indicating:
-- Possible technical barriers (payment verification, geographic restrictions)
-- Possible time misalignment (15min estimate vs actual experience)
-- Possible instruction clarity gaps (steps seem clear to council, may not be to owner)
-- Possible priority shifts (owner interested in different direction, hasn't communicated)
+**Validated Market Niches:**
+- Budget planning templates (high search volume, proven sellers)
+- Meal planning worksheets (recurring customer need)
+- Habit trackers (New Year / fresh start seasonality)
+- Small business templates (invoices, contracts, planners)
+- Educational worksheets (homeschool, tutoring markets)
 
-### Diagnostic Questions Posed (Cycle 86)
-1. Technical issue? → Troubleshoot or suggest alternative platform
-2. Time constraint? → Revise timeline/batch size
-3. Unclear steps? → Provide granular walkthrough
-4. Changed priorities? → Explore alternative with same rigor
-5. No barriers, proceeding now? → Stand by for shop URL
-6. No barriers, will do later? → Return to professional standby
-
-**Next Step:** Awaiting owner selection from six options above. Council will route based on response.
+**Execution Blocked:** Cycles 82-85 provided identical "create shop now" guidance with zero action, triggering Cycle 86 diagnostic mode to surface barriers before proceeding.
 
 ---
 
-## ALTERNATIVE IDEAS (EVIDENCE-DEPENDENT ACTIVATION)
+## ALTERNATIVE: Gumroad Digital Products
 
-These alternatives remain documented but will only be recommended if owner's diagnostic response provides evidence that Etsy path is blocked. Speculative pivoting without evidence violates 91 cycles of operational discipline.
+**Status:** Runner-up platform if Etsy barriers exist
 
-### Alternative 1: Gumroad Digital Products
-**Capital Required:** $0-10 (first week)
-**Why alternative:** Simpler setup than Etsy (no shop approval), but less organic traffic
-**Activation trigger:** Owner reports Etsy technical barriers or geographic restrictions
+**Key Differences from Etsy:**
+- Simpler setup (5-10 min vs 15-30 min)
+- No listing fees ($0 to start vs $0.20/listing)
+- Lower traffic (bring your own audience vs marketplace discovery)
+- Higher per-sale fees (10% + $0.30 vs 6.5% + $0.20 + payment)
+- Better for premium products ($20+ vs $5-15 sweet spot)
 
-### Alternative 2: Freelance Services (Upwork/Fiverr)
-**Capital Required:** $0-25 (profile optimization)
-**Why alternative:** Trades owner time for money, less scalable than products
-**Activation trigger:** Owner reports changed priorities toward service income
-
-### Alternative 3: Micro-Newsletter
-**Capital Required:** $0-50 (first month, including BeHiiv/Substack premium)
-**Why alternative:** Longer runway to revenue, but high scalability
-**Activation trigger:** Owner reports interest in audience-building over quick revenue
-
-### Alternative 4: Micro-SaaS
-**Capital Required:** $20-75 (hosting, domain, no-code tools)
-**Why alternative:** Higher technical complexity, longer development time
-**Activation trigger:** Owner reports technical skills/interest in software products
-
-### Alternative 5: Affiliate Marketing
-**Capital Required:** $10-50 (content creation tools, hosting)
-**Why alternative:** Requires audience-building before revenue
-**Activation trigger:** Owner reports interest in content creation over product creation
+**When to Choose:** If owner reports Etsy technical barriers (payment verification issues, geographic restrictions, bank connection problems) or prefers traffic-building challenge over marketplace competition.
 
 ---
 
-## IDEAS ARCHIVE (PREVIOUSLY CONSIDERED)
+## ALTERNATIVE: Freelance Services (Fiverr/Upwork)
 
-All ideas from Cycles 1-80 remain documented in previous versions. Council maintains institutional memory of:
-- Service arbitrage concepts (copywriting, VA services, social media management)
-- Productized service concepts (resume reviews, business plan templates)
-- Community/membership concepts (Discord servers, Slack communities)
-- Content monetization concepts (Medium partnership, YouTube ad revenue)
+**Status:** Higher owner time requirement, considered if priorities shifted
 
-These were systematically evaluated and deemed inferior to Etsy digital products based on capital efficiency, time alignment, scalability, and speed to first dollar. They remain available for re-evaluation if owner diagnostic response reveals new constraints or priorities.
+**Core Concept:** Sell skills (writing, design, consulting, admin) on freelance marketplaces
+
+**Capital Required:** $0-20 (optional profile optimization)
+
+**Time Required:** 5-10 hrs/week minimum (proposal writing, client communication, service delivery)
+
+**Revenue Potential:** $200-1000+ month one (skill and niche dependent)
+
+**Key Advantages:**
+- Immediate cash flow potential (payments within days)
+- Low barrier to entry (list services, start bidding)
+- Skill development compounds
+- Relationship building for repeat clients
+
+**Key Disadvantages:**
+- Time-for-money model (limited scalability)
+- High competition on popular platforms
+- Client management overhead
+- Inconsistent income without pipeline
+
+**When to Choose:** If owner has marketable skills and prefers active income over passive product sales, or if time availability is higher than originally stated.
 
 ---
 
-## EVALUATION CRITERIA (UNCHANGED)
+## ALTERNATIVE: Newsletter + Sponsorships
 
-All ideas evaluated on:
-- **Market size:** Sufficient buyers to reach $1000+ monthly revenue
-- **Competition:** Enterable by solo operator with $100 budget
-- **Customer pain:** Clear problem worth paying to solve
-- **Ease of selling:** Low friction purchase decision
-- **Price point:** $3-50 range (volume feasible, margin sustainable)
-- **Margin:** 70%+ after platform fees and costs
-- **Scalability:** Revenue growth possible without proportional time increase
-- **Automation potential:** Repeatable processes, minimal manual work per sale
-- **Startup cost:** <$25 first week, <$100 first month
-- **Speed to first dollar:** Revenue possible within 14 days
-- **Owner time required:** <1hr weekday, ~2hrs weekend
+**Status:** Longer timeline, considered if owner wants audience-building focus
+
+**Core Concept:** Build email audience around niche topic, monetize via sponsors/affiliates/products
+
+**Capital Required:** $0-30/month (email platform, optional domain)
+
+**Time Required:** 3-5 hrs/week (content creation, audience engagement)
+
+**Revenue Potential:** 
+- Months 1-3: $0 (audience building)
+- Months 4-6: $50-200 (first sponsors/affiliates)
+- Months 7-12: $200-1000+ (with 1000+ subscribers)
+
+**Key Advantages:**
+- Owned audience (platform-independent asset)
+- Multiple monetization paths (sponsors, affiliates, products, services)
+- Compounds over time (evergreen content, growing list)
+- Personal brand building
+
+**Key Disadvantages:**
+- Slow initial growth (3-6 months to monetization)
+- Requires consistent content creation
+- Audience-building skills needed (SEO, social, partnerships)
+
+**When to Choose:** If owner willing to invest 3-6 months in audience building before revenue, or wants to build long-term platform-independent asset.
 
 ---
 
-*Document frozen during diagnostic hold - Council will update upon owner response to Cycle 86 barrier questions*
-*Version: 91.0 - DIAGNOSTIC HOLD*
-*Date: Cycle 91*
+## ALTERNATIVE: Micro-SaaS
+
+**Status:** Highest technical requirement, considered if owner has development skills
+
+**Core Concept:** Build small software tool solving specific problem, charge subscription
+
+**Capital Required:** $0-50 (hosting, domain, optional no-code tools)
+
+**Time Required:** 20-40 hours upfront (build), 2-5 hrs/week ongoing (support, updates)
+
+**Revenue Potential:**
+- Months 1-2: $0 (building)
+- Months 3-6: $50-500 (early customers)
+- Months 7-12: $500-2000+ (with product-market fit)
+
+**Key Advantages:**
+- Recurring revenue model (MRR compounds)
+- High margin (software scales infinitely)
+- Valuable exit potential (SaaS businesses sell at 3-5x revenue)
+- Technical skills development
+
+**Key Disadvantages:**
+- Requires coding ability or no-code platform learning
+- Longer time to first dollar (2-3 months typical)
+- Customer support overhead
+- Competitive landscape (established players in most niches)
+
+**When to Choose:** If owner has technical skills or strong motivation to learn, and willing to invest 2-3 months before revenue.
+
+---
+
+## EVALUATION CRITERIA APPLIED
+
+All ideas evaluated against:
+- **Market size:** Sufficient customer base?
+- **Competition:** Can we differentiate?
+- **Customer pain:** Real problem being solved?
+- **Ease of selling:** Low-friction purchase?
+- **Price point:** Allows profit on small volume?
+- **Margin:** Keeps most of revenue?
+- **Scalability:** Growth without linear cost increase?
+- **Automation potential:** Revenue while sleeping?
+- **Startup cost:** Fits $100 budget?
+- **Speed to first dollar:** Fast feedback loops?
+- **Owner time:** Fits ~1 hr/weekday, ~2 hrs/weekend?
+
+Etsy Digital Products scored highest across criteria, but execution stalled pending barrier diagnosis (Cycle 86). Council will pivot to alternatives only if owner's diagnostic response provides evidence that Etsy path is blocked.
+
+---
+
+*Document maintained by ARCHITECT autonomous AI business operator*
+*Last Updated: Cycle 92*
+*Status: Etsy strategy validated, awaiting barrier diagnosis to resume execution*
