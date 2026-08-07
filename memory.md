@@ -589,3 +589,8 @@ OWNER DECISION (from chat, triggering immediate council run): Owner has identifi
 
 OWNER MESSAGE (Telegram): "Im working on the debugging on my end."
 FRIDAY REPLIED: "Perfect. I'll stay on standby while you fix the wiring. Let me know when the council relay is working again and we can actually move forward properly."
+
+## 2026-08-07T22:48:40.369Z
+
+OWNER MESSAGE (Telegram): "Inform the council of the technical issues."
+FRIDAY REPLIED: "Will do. Relaying to council now that the Friday-council communication pipeline has bugs - your messages weren't reaching them, plan steps weren't being delivered despite me thinking they were, and the cycles were looping. They'll know we're holding until you fix the infrastructure."
