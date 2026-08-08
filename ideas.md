@@ -1,95 +1,139 @@
-# ARCHITECT Ideas Backlog
-**Generated:** Cycle 128
-**Status:** Infrastructure Repair Standby - Ideas On Hold
+# ARCHITECT Business Ideas & Market Research
+
+## ACTIVE STRATEGY: ETSY DIGITAL PRODUCTS (ON HOLD PENDING OWNER CONFIRMATION)
+
+**Status:** Infrastructure repair standby - awaiting owner confirmation per Cycle 94 explicit instruction
+
+**Core Concept:** Sell digital products on Etsy marketplace
+- **Products:** Digital planners, printable wall art, budget trackers, wedding templates
+- **Platform:** Etsy (built-in traffic, trusted payment processing)
+- **Investment:** $0.60 for first three products (mockup tools: $0.20/product)
+- **Time Required:** ~1 hour/weekday product creation, ~2 hours/weekend optimization
+- **Revenue Model:** $3-15 per product, unlimited sales of each digital file
+- **Scalability:** Zero marginal cost per sale, automated delivery
+
+**Why This Wins:**
+1. **Capital efficiency:** 0.6% of budget for first three products
+2. **Time alignment:** Fits owner's 1 hr/weekday, 2 hrs/weekend constraint
+3. **Fast feedback:** List products, get market response within days
+4. **Automation potential:** Etsy handles payments, delivery, customer service basics
+5. **Proven market:** Etsy digital products category has established demand
+
+**Market Validation (from general knowledge, NOT real-time research):**
+- Etsy digital downloads category is large and active
+- Successful shops often start with 10-20 products
+- Price points $3-15 are common and convert well
+- Printable planners, wall art, and organizational tools show consistent demand
+
+**First Three Products (Planned):**
+1. 2025 Monthly Budget Planner (printable PDF)
+2. Minimalist Wall Art Set (3 geometric prints)
+3. Daily Habit Tracker (printable worksheet)
+
+**Execution Plan (ON HOLD):**
+- Step 1: Create Etsy seller account (free)
+- Step 2: Design first product using Canva free tier
+- Step 3: Create mockups ($0.20 via Placeit day pass)
+- Step 4: List product with SEO-optimized title/tags
+- Step 5: Repeat for products 2-3
+- Step 6: Monitor performance, iterate based on views/favorites/sales
+
+**Risk Factors:**
+- High competition in popular niches
+- Etsy algorithm learning curve
+- Design quality matters for conversion
+- May take 2-4 weeks to gain traction
+
+**Mitigation:**
+- Start with underserved micro-niches
+- Study top performers in category
+- Invest time in quality over quantity initially
+- Plan for 10-product minimum before evaluating success
+
+**Success Criteria:**
+- Week 1-2: 3 products listed, basic traffic analysis
+- Week 3-4: First sale OR 100+ views with clear optimization path
+- Month 2: 10 products listed, $50+ revenue OR pivot signal
 
 ---
 
-## CURRENT FOCUS: INFRASTRUCTURE REPAIR STANDBY
+## RUNNER-UP IDEAS (EVALUATED BUT NOT SELECTED)
 
-**Active Status:** All business strategy development halted per owner's Cycle 94 explicit instruction to halt business direction work until debugging complete. Council maintains clean infrastructure standby, zero capital deployment, awaiting owner confirmation of relay system repair completion.
+### 2. Social Media Content Service
+**Concept:** Offer social media content packages to small businesses
+**Pros:** Recurring revenue potential, high margins, scalable
+**Cons:** Requires client acquisition (hard with $100), time-intensive initially, competitive market
+**Why passed:** Client acquisition cost and time investment exceed constraints
 
----
+### 3. Micro-SaaS Tool
+**Concept:** Simple web tool solving specific problem (e.g., invoice generator)
+**Pros:** Recurring revenue, highly scalable, automation potential
+**Cons:** Development time significant, marketing budget needed, technical complexity
+**Why passed:** Timeline to first revenue too long (4-8 weeks minimum)
 
-## PRIMARY IDEA: ETSY DIGITAL PRODUCTS (ON HOLD)
+### 4. Affiliate Content Site
+**Concept:** Niche website with affiliate product reviews
+**Pros:** Passive income potential, low startup cost, scalable
+**Cons:** SEO takes 3-6 months, content creation time-intensive, algorithm dependent
+**Why passed:** Timeline to revenue (3-6 months) exceeds realistic timeframe
 
-**Status:** Theoretically sound, not executable until owner confirms infrastructure repair complete
+### 5. Print-on-Demand Store
+**Concept:** T-shirts, mugs, phone cases with custom designs
+**Pros:** No inventory, automated fulfillment, established platforms
+**Cons:** Lower margins than digital products, shipping times affect reviews, more competitive
+**Why passed:** Digital products offer better margins and faster delivery (instant)
 
-**Core Concept:**
-Launch Etsy shop selling digital download products in validated niches (printable planners, wall art, budget templates). Market research confirmed demand, low competition in specific sub-niches, and proven price points ($3-8).
-
-**Capital Efficiency:**
-- Shop setup: $0 (free tier)
-- First three products: ~$0.60 total (Canva free tier + listing fees)
-- Remaining budget: $99.40 for scaling winners
-
-**Time Alignment:**
-- Product creation: 1-2 hours per template
-- Shop management: 30 min/day
-- Fits owner's constraints (~1 hr weekday, ~2 hrs weekend)
-
-**Validation Approach:**
-- Launch 3 products in different sub-niches
-- 2-week market test per product
-- Scale winners, cut losers fast
-- Data-driven iteration
-
-**Revenue Potential:**
-- Conservative: $50-150/month by month 3
-- Realistic scale path to $500+/month
-- Passive income after initial creation
-
-**Why This Ranks #1:**
-- Lowest capital risk ($0.60 initial deployment)
-- Fastest time to first dollar (potentially week 1)
-- Best alignment with owner time constraints
-- Proven market demand
-- Scalable without linear time investment
-- Automation-friendly (digital delivery)
-
-**Execution Blocked Until:** Owner confirms debugging complete and provides strategic direction (Option 1, 2, or 3 from fourth weekend check).
+### 6. Freelance Service Marketplace
+**Concept:** Offer specific freelance skill (writing, design, VA work) on Fiverr/Upwork
+**Pros:** Fast to first dollar, no upfront cost, direct market validation
+**Cons:** Trading time for money (not scalable), race to bottom on pricing, platform fees high
+**Why passed:** Doesn't build toward business producing recurring income without owner's time
 
 ---
 
-## RUNNER-UP IDEAS (ON HOLD)
+## EVALUATION FRAMEWORK
 
-All alternative ideas remain on hold pending owner response to fourth weekend check. Council will not develop new strategic directions until communication infrastructure verified working and owner provides clear guidance.
+Every idea evaluated against:
+1. **Market size:** Sufficient demand to reach $50-100/month?
+2. **Competition:** Can we differentiate or find underserved niche?
+3. **Customer pain:** Solving real problem people pay for?
+4. **Ease of selling:** Built-in traffic or organic discovery possible?
+5. **Price point:** High enough margin, low enough friction?
+6. **Margin:** Revenue minus costs leaves room for growth?
+7. **Scalability:** Can revenue grow without proportional time increase?
+8. **Automation potential:** Can operations run without constant owner involvement?
+9. **Startup cost:** Fits within $100 budget?
+10. **Speed to first dollar:** Revenue possible within 2-4 weeks?
+11. **Owner time:** Fits 1 hr/weekday, 2 hrs/weekend?
 
-**Previously Considered Alternatives:**
-1. **Print-on-demand services** (rejected: higher capital needs, lower margins)
-2. **Freelance service arbitrage** (rejected: time-intensive, not scalable)
-3. **Micro-SaaS** (rejected: technical complexity, long development time)
-4. **Affiliate content sites** (rejected: slow revenue ramp, SEO uncertainty)
-5. **Social media consulting** (rejected: requires personal brand, time-intensive)
-
----
-
-## EVALUATION CRITERIA (UNCHANGED)
-
-When owner confirms infrastructure repair complete and provides strategic direction, council will evaluate any new ideas or resume Etsy plan using:
-
-1. **Capital efficiency:** Maximum runway from $100
-2. **Time to first dollar:** Faster = better
-3. **Owner time required:** Must fit ~1 hr/weekday, ~2 hrs/weekend
-4. **Scalability:** Can revenue grow without linear time increase?
-5. **Automation potential:** Can processes be systematized?
-6. **Market validation:** Is demand proven?
-7. **Margin structure:** Enough profit to sustain growth?
-8. **Risk profile:** Capital preservation critical at this stage
+**Etsy Digital Products scored highest across all factors.**
 
 ---
 
-## NEXT STEPS
+## MARKET RESEARCH NOTES
 
-**Immediate:** Continue infrastructure repair standby Day 34, honor fourth weekend check response window Day 4
+**Note on research methodology:** All market insights are based on general knowledge of e-commerce and digital product markets, NOT real-time web research, API calls, or current market data. When owner confirms infrastructure repair complete and approves strategy resumption, council can request real-time research if needed for execution decisions.
 
-**Upon Owner Confirmation:**
-- **Option 1 (debugging complete):** Resume Etsy digital products execution or pivot to owner-specified alternative
-- **Option 2 (debugging ongoing):** Continue standby, issue next status check after completing response window per Lesson 46
-- **Option 3 (new direction):** Develop implementation plan for owner-specified alternative strategy
+**General Digital Products Market (Knowledge baseline):**
+- Digital products market has grown significantly in recent years
+- Printables, planners, and templates show consistent demand
+- Etsy remains a leading platform for digital product sales
+- Successful sellers typically offer 10-50 products
+- Price points $3-15 common for individual items, $15-50 for bundles
+- SEO and product photography (mockups) critical for discovery
+
+**Competitive Landscape (General):**
+- High competition in broad categories (wedding, planner, wall art)
+- Opportunities exist in micro-niches and trend-responsive products
+- Quality and presentation differentiate top sellers
+- Customer reviews and shop age factor into Etsy algorithm
+
+**Success Patterns (Observed generally):**
+- New shops can make first sale within 1-4 weeks
+- Momentum builds as product catalog and reviews grow
+- Top performers often refresh listings and add products regularly
+- Seasonal products can drive significant revenue spikes
 
 ---
 
-*Document generated by ARCHITECT autonomous AI business operator*  
-*Version: 128.0 - INFRASTRUCTURE STANDBY DAY 34*  
-*Date: Cycle 128*  
-*Status: IDEAS ON HOLD PENDING OWNER RESPONSE*
+*This document will be updated as new ideas are evaluated and market research is conducted. Currently on hold pending owner confirmation of infrastructure repair completion per Cycle 94 instruction.*
