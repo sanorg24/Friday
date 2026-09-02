@@ -1,48 +1,93 @@
-# Business Ideas & Opportunities - INFRASTRUCTURE STANDBY
+# ARCHITECT Business Ideas
 
-## CURRENT FOCUS: INFRASTRUCTURE REPAIR STANDBY
+## Current Strategy: INFRASTRUCTURE REPAIR STANDBY
 
-**Status:** All business strategy execution halted per owner's Cycle 94 explicit instruction until debugging complete.
+**Status:** On hold pending owner confirmation of debugging completion (Day 64)
 
-**Timeline:** Day 63 of infrastructure repair standby (Cycles 95-157).
-
-**Capital Status:** $100.00 fully protected, zero deployed during repair period.
+**Background:** Cycle 94 owner diagnosed critical technical bugs in Friday-council relay system and explicitly instructed halt of all business strategy execution until debugging complete. Council maintains professional standby with periodic status verification while protecting all $100 capital.
 
 ---
 
-## PRIMARY STRATEGY (ON HOLD): ETSY DIGITAL PRODUCTS
+## PRIMARY IDEA: Etsy Digital Products (On Hold)
 
-**Market:** Printable wall art, planners, organizational templates  
-**Investment:** $0.60 for first three products (Canva Pro trial)  
-**Time Required:** ~3-4 hours initial setup, ~1 hour/week maintenance  
-**Revenue Potential:** $2-10 per sale, passive income after setup  
-**Validation:** Proven market, low competition niches available, scalable  
+**Concept:** Launch Etsy shop selling digital downloads (printable planners, wall art, organizational templates)
 
-**Why On Hold:** Council will not execute ANY business strategy until owner confirms communication infrastructure verified working and provides clear strategic direction per Cycle 94 instruction.
+**Investment Required:** $0.60 for first three product listings
+
+**Why This Idea:**
+- Lowest possible capital requirements ($0.20/listing for digital products)
+- Zero inventory, shipping, or physical overhead
+- Automated delivery (Etsy handles file transmission)
+- Owner time matches constraints (~1 hr weekday setup work)
+- Fast feedback loop (list products, get market signal within days)
+- Scalable with proven demand
+- Large existing market (Etsy's 96M active buyers)
+
+**Key Advantages:**
+- Can start with $0.60 and learn before deploying remaining $99.40
+- Digital products = pure margin after $0.20 listing fee
+- Skills buildable through free tools (Canva free tier)
+- Market research available through Etsy search data
+- Clear success metrics (views, favorites, sales)
+
+**Execution Plan (When Resumed):**
+1. Market research via Etsy search trends (free, 1 hour)
+2. Create first digital product using Canva free tier (2-3 hours)
+3. List product on Etsy ($0.20, 30 minutes)
+4. Monitor performance for 48-72 hours
+5. Iterate based on market feedback
+6. Scale successful products, cut unsuccessful ones
+
+**Current Status:** Strategy development complete, execution halted per owner instruction Cycle 94. Awaiting owner confirmation of debugging completion before resuming any business strategy execution.
 
 ---
 
-## ALTERNATIVE IDEAS CONSIDERED (HISTORICAL)
+## ALTERNATIVE IDEAS CONSIDERED
 
-All alternative strategies remain theoretically viable but are on hold pending infrastructure repair completion and owner strategic direction confirmation:
+These remain available as pivots if owner selects Option 3 (new direction) in response to weekend check:
 
-1. **Print-on-Demand Services** (Redbubble, TeePublic)
-2. **Micro-SaaS Tools** (automation, productivity)
-3. **Digital Course Platforms** (Gumroad, Teachable)
-4. **Affiliate Content Sites** (niche review blogs)
-5. **Freelance Service Marketplaces** (Fiverr, Upwork)
+### 2. Print-on-Demand via Printful/Printify
+- **Pros:** Zero inventory, automated fulfillment, larger market
+- **Cons:** Higher fees eat margin, slower feedback loop, more competition
+- **Capital:** $0 upfront (paid per sale)
+- **Why ranked lower:** Margin compression and slower learning cycle vs. digital products
+
+### 3. Micro-SaaS Tool
+- **Pros:** Recurring revenue potential, high scalability
+- **Cons:** Requires technical execution, longer time to first dollar, higher complexity
+- **Capital:** $10-50 for domain/hosting
+- **Why ranked lower:** Owner time constraints and technical overhead vs. digital products
+
+### 4. Content Site + Affiliate Revenue
+- **Pros:** Low startup cost, passive income potential
+- **Cons:** 3-6 month ramp to meaningful traffic, algorithm dependence
+- **Capital:** $15-30 for domain/hosting
+- **Why ranked lower:** Timeline to first dollar vs. digital products
+
+### 5. Freelance Service Marketplace
+- **Pros:** Immediate income potential, low startup cost
+- **Cons:** Trading time for money (not scalable), owner time constraints
+- **Capital:** $0-20 for profile setup
+- **Why ranked lower:** Scalability and time requirements vs. digital products
 
 ---
 
-## NEXT STEPS POST-REPAIR
+## SELECTION CRITERIA
 
-Once owner confirms infrastructure repair complete and provides strategic direction:
+All ideas evaluated against:
+1. **Capital efficiency:** Max learning per dollar spent
+2. **Time alignment:** Fits owner's ~1 hr/weekday, ~2 hrs/weekend constraint
+3. **Speed to feedback:** How fast we learn if it works
+4. **Scalability:** Can it grow beyond owner's time?
+5. **Automation potential:** Can processes be systematized?
+6. **Market validation:** Evidence of existing demand?
+7. **Margin potential:** Path to sustainable unit economics?
+8. **Risk level:** Downside if it fails?
 
-1. **If Option 1 (Resume Execution):** Return to Etsy digital products plan or execute owner-specified alternative strategy
-2. **If Option 2 (Continue Standby):** Maintain infrastructure standby, issue next status check after completing response window
-3. **If Option 3 (New Direction):** Develop implementation plan for owner-specified alternative strategy
+**Winner:** Etsy Digital Products scored highest across all criteria, particularly capital efficiency ($0.60 start), speed to feedback (days not months), and scalability (pure digital delivery).
 
 ---
 
-*Status: Infrastructure repair standby Day 63 - Eighth weekend check response window Day 5*  
-*All ideas on hold pending owner confirmation of debugging completion*
+*Ideas document maintained by ARCHITECT autonomous AI business operator*  
+*Last Updated: Cycle 158*  
+*Status: Infrastructure repair standby - execution on hold pending owner confirmation*
