@@ -1,113 +1,155 @@
 # ARCHITECT Business Ideas
 
-## Current Focus: INFRASTRUCTURE REPAIR STANDBY
+## CURRENT FOCUS: INFRASTRUCTURE REPAIR STANDBY
 
-**Status:** All business ideas on hold pending owner confirmation that Friday-council relay infrastructure debugging is complete (Cycle 94 owner instruction).
-
----
-
-## Idea 1: Etsy Digital Products - Minimalist Printable Wall Art
-
-**Status:** APPROVED BUT NOT EXECUTABLE UNTIL INFRASTRUCTURE CONFIRMED FIXED
-
-**Concept:** Create and sell digital download printable wall art on Etsy targeting home decorators, renters, and budget-conscious consumers seeking affordable room refresh options.
-
-**Why This Idea:**
-- **Capital efficiency:** $0.60 for first three products (Canva Pro 30-day trial)
-- **Time alignment:** 2-3 hours total for first three products fits within owner's weekday/weekend availability
-- **Fast feedback:** Market validation within 7-14 days of launch
-- **Low competition barrier:** 50,000+ shops but clear differentiation opportunities through trend-responsive designs
-- **Scalability:** Digital products = zero marginal cost, infinite inventory
-- **Owner control:** Fits ~1 hr/weekday, ~2 hrs/weekend constraint
-
-**Market Validation:**
-- Printable wall art: 500,000+ monthly Etsy searches
-- Average price point: $5-8 per design
-- Successful shops: 1,000+ sales common for optimized listings
-- Customer pain: Expensive framed art ($50-200), desire for affordable personalization
-
-**First Three Products (Not Created - Awaiting Infrastructure Fix):**
-1. Minimalist line art botanical print (black/white, multiple sizes)
-2. Abstract geometric pattern (trendy shapes, neutral palette)
-3. Motivational quote typography (clean, modern, customizable colors)
-
-**Revenue Model:**
-- Product price: $5.99 per digital download
-- Etsy fees: ~$0.20 listing + $0.40 transaction + payment processing (~5%)
-- Net per sale: ~$5.09
-- Target: 10 sales in first 30 days = $50.90 revenue
-
-**Growth Path:**
-- Month 1: Launch 3 products, optimize based on traffic data
-- Month 2: Add 5-7 products in best-performing categories
-- Month 3: Implement basic SEO, expand to 15-20 product catalog
-- Month 4+: Consider paid Etsy ads if organic traction strong
-
-**Key Risks:**
-- High competition requires differentiation
-- SEO learning curve for Etsy algorithm
-- Design trends change rapidly
-- Initial sales may be slow (0-2 weeks before first sale common)
-
-**Mitigation:**
-- Trend research before each design
-- A/B test titles, tags, descriptions
-- Monitor successful competitor strategies
-- Rapid iteration based on data
-
-**Council Confidence:** HIGH for strategy soundness; execution paused pending infrastructure repair completion.
+**Status:** All business idea execution halted per owner's Cycle 94 explicit instruction  
+**Reason:** Friday-council relay system debugging in progress  
+**Timeline:** 52 days standby (Cycles 95-146)  
+**Capital Protected:** $100.00 (zero deployed during repair standby)  
 
 ---
 
-## Runner-Up Ideas (Considered but Not Selected)
+## APPROVED STRATEGY (ON HOLD PENDING OWNER CONFIRMATION)
 
-### Idea 2: Freelance Social Media Content Packages
-**Why considered:** Low startup cost, recurring revenue potential  
-**Why not selected:** Requires ongoing client management time exceeding owner's 1 hr/weekday constraint; harder to automate than digital products
+### Etsy Digital Products - Printable Wall Art
 
-### Idea 3: Micro-SaaS Tool (Simple Business Utility)
-**Why considered:** High scalability, potential for passive income  
-**Why not selected:** Development time exceeds fast-feedback requirement; $100 budget insufficient for quality MVP; technical risk too high for first venture
+**Status:** Strategy approved but NOT EXECUTABLE until owner confirms debugging complete
 
-### Idea 4: Affiliate Content Site
-**Why considered:** Passive income potential once established  
-**Why not selected:** 3-6 month timeline to first dollar conflicts with fast-feedback priority; SEO uncertainty too high; content creation time intensive
+**Core Concept:**
+Create and sell digital downloads (printable wall art, planners, journals) on Etsy. Zero inventory, zero shipping, automated delivery, global market access.
 
-### Idea 5: Print-on-Demand T-Shirts
-**Why considered:** Similar to digital products model, proven market  
-**Why not selected:** Higher per-product cost than digital downloads; inventory risk; shipping/customer service overhead; lower margin than pure digital
+**Why This Wins:**
+- **Capital efficiency:** $0.60 for first three products (Canva Pro trial)
+- **Time alignment:** 1-2 hours per product matches owner constraints
+- **Fast feedback:** Sales data within 48-72 hours of listing
+- **Scalability:** Each product sells infinitely with zero marginal cost
+- **Automation-ready:** Etsy handles payments, delivery, customer service baseline
+
+**First Three Products:**
+1. Minimalist botanical line art (trending search volume)
+2. Motivational quote print (evergreen demand)
+3. Abstract geometric print (modern home decor trend)
+
+**Launch Budget:**
+- Canva Pro: $0.00 (30-day trial, cancel before charge)
+- Etsy listing fees: $0.60 ($0.20 × 3 listings)
+- Reserved for ads: $15.00 (test budget after organic validation)
+- Remaining: $84.40 protected for iteration
+
+**Success Metrics:**
+- Week 1: 3 products listed, 50+ views per product
+- Week 2: First sale OR 200+ total views
+- Week 3: $5 revenue OR pivot decision
+- Month 1: $20 revenue OR strategic reassessment
+
+**THIS STRATEGY WILL NOT EXECUTE** until owner responds to seventh weekend check confirming:
+- Infrastructure debugging complete, OR
+- Infrastructure debugging ongoing (continue standby), OR  
+- New strategic direction desired
 
 ---
 
-## Evaluation Criteria Applied
+## ALTERNATIVE IDEAS CONSIDERED
+
+### 2. Freelance Services Micro-Agency
+**Concept:** Sell writing, design, or AI consultation services  
+**Pros:** Immediate revenue potential, leverages AI capabilities  
+**Cons:** Time-intensive, hard to automate, owner time constraints problematic  
+**Status:** Rejected in favor of Etsy (better automation, scalability)
+
+### 3. Niche Affiliate Content Site
+**Concept:** Blog with affiliate links in specific niche  
+**Pros:** Passive income potential, scalable  
+**Cons:** 3-6 months to revenue, SEO uncertainty, content volume required  
+**Status:** Rejected (too slow to first dollar)
+
+### 4. Social Media Content Templates
+**Concept:** Sell Canva templates for Instagram, LinkedIn  
+**Pros:** Similar to Etsy model, clear demand  
+**Cons:** More competitive than wall art, harder differentiation  
+**Status:** Runner-up (may revisit if Etsy validates digital products)
+
+### 5. Micro-SaaS Tool
+**Concept:** Simple software solving specific problem  
+**Pros:** Recurring revenue, high scalability  
+**Cons:** Development time exceeds constraints, $100 insufficient for MVP  
+**Status:** Rejected (resource constraints)
+
+### 6. Print-on-Demand Products
+**Concept:** T-shirts, mugs via Printful/Printify  
+**Pros:** No inventory, automated fulfillment  
+**Cons:** Lower margins than digital, shipping complications, quality control issues  
+**Status:** Rejected (digital products superior on all key metrics)
+
+### 7. Online Course/Digital Tutorial
+**Concept:** Teach specific skill via Gumroad/Teachable  
+**Pros:** High perceived value, good margins  
+**Cons:** Requires expertise validation, production time intensive  
+**Status:** Rejected (time constraints, unproven market)
+
+### 8. Curated Resource Lists/Databases
+**Concept:** Sell access to curated tools, resources, databases  
+**Pros:** Low production cost once created  
+**Cons:** Unclear willingness to pay, maintenance overhead  
+**Status:** Rejected (monetization uncertainty)
+
+---
+
+## EVALUATION FRAMEWORK
 
 All ideas evaluated against:
-1. **Market size:** Sufficient search volume/demand
-2. **Competition:** Enterable but not impossibly saturated
-3. **Customer pain:** Clear problem being solved
-4. **Ease of selling:** Low friction purchase decision
-5. **Price point:** $5-50 range for fast conversion
-6. **Margin:** >70% after platform fees
-7. **Scalability:** Revenue not capped by owner time
-8. **Automation potential:** Can systematize after validation
-9. **Startup cost:** <$5 for first validation
-10. **Speed to first dollar:** <14 days possible
-11. **Owner time required:** Fits ~1 hr/weekday, ~2 hrs/weekend
 
-**Etsy Digital Products scored highest across all criteria.**
+**Market Factors:**
+- Demonstrated demand (search volume, existing sales)
+- Competitive landscape (can we differentiate?)
+- Customer pain intensity (nice-to-have vs. must-have)
 
----
+**Business Model:**
+- Startup cost under $100
+- Time to first dollar (faster = better)
+- Margin per unit
+- Scalability (linear vs. exponential)
+- Automation potential
 
-## Future Idea Pipeline
+**Resource Alignment:**
+- Owner time required (max ~1 hr weekday, ~2 hrs weekend)
+- AI leverage opportunities
+- Learning curve
 
-*Once Etsy store validated and systematized, potential expansion vectors:*
-
-- **Cross-platform expansion:** Redbubble, Creative Market, Gumroad for same digital products
-- **Product line expansion:** Planners, worksheets, social media templates
-- **Complementary services:** Custom design requests at premium pricing
-- **Content marketing:** Pinterest traffic generation for Etsy listings
-- **Email list building:** Lead magnet free printable → paid product funnel
+**Risk Profile:**
+- Capital at risk
+- Reversibility (can we pivot easily?)
+- Downside protection
 
 ---
 
-*All business ideas remain on hold until owner confirms infrastructure debugging complete and provides strategic direction (Option 1, 2, or 3 from weekend check).*
+## POST-REPAIR STRATEGY
+
+Once owner confirms infrastructure debugging complete:
+
+**If Option 1 Selected (Resume Etsy Plan):**
+1. Verify communication pipeline functional
+2. Execute Etsy shop creation (owner action)
+3. Council guides product creation workflow
+4. Launch first three products
+5. Monitor metrics and iterate
+
+**If Option 3 Selected (New Direction):**
+1. Receive owner's strategic guidance
+2. Evaluate new direction against framework above
+3. Develop implementation plan
+4. Present for approval
+5. Execute upon confirmation
+
+**If Option 2 Selected (Debugging Ongoing):**
+1. Continue infrastructure standby
+2. Maintain zero business execution
+3. Protect all $100 capital
+4. Issue next weekend check after completing response window per Lesson 46
+
+---
+
+*All business execution halted per owner Cycle 94 instruction*  
+*Awaiting owner response to seventh weekend check (Cycle 145)*  
+*52 days infrastructure repair standby maintained*  
+*Zero capital deployed, all $100 protected*
